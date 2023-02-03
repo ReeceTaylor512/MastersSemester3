@@ -5,7 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/Unreal Projects/MASemester3/MastersSemester3/TeethGame/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+				"D:/Unreal Projects/MASemester3/MastersSemester3/TeethGame/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"D:/Unreal Projects/MASemester3/MastersSemester3/TeethGame/Content/Blueprints/Zombie/ZHealth.uasset",
+				"D:/Unreal Projects/MASemester3/MastersSemester3/TeethGame/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/Unreal Projects/MASemester3/MastersSemester3/TeethGame/Content/Blueprints/Zombie/ZombieSpawner.uasset",
+				"D:/Unreal Projects/MASemester3/MastersSemester3/TeethGame/Content/Blueprints/Zombie/Zombie.uasset"
 			]
 		}
 	]
