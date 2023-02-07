@@ -1,0 +1,1386 @@
+﻿Log file open, 02/07/23 11:38:53
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=18960)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: TeethProject
+LogCore: Warning: UnrealTraceServer: Trace store returned an error (0x000064ec)
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20280985"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.2-20280985+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" C:\Temp\RT\MastersSemester3\TeethProject\TeethProject.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H2) [10.0.19044.2486] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="0f1de89d4467888b5f8ff2933e014b5e"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.383126
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-EE0B8561447BD6C5AAF72D9CA25E41CA
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading HoloLens ini files took 0.04 seconds
+LogConfig: Display: Loading Mac ini files took 0.04 seconds
+LogConfig: Display: Loading Android ini files took 0.04 seconds
+LogConfig: Display: Loading IOS ini files took 0.04 seconds
+LogConfig: Display: Loading TVOS ini files took 0.05 seconds
+LogConfig: Display: Loading Unix ini files took 0.05 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.05 seconds
+LogConfig: Display: Loading Linux ini files took 0.05 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.02 seconds
+LogConfig: Display: Loading Windows ini files took 0.03 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20280985
+LogInit: Engine Version: 5.0.2-20280985+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H2) [10.0.19044.2486] (), CPU: Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz, GPU: NVIDIA GeForce RTX 2080
+LogInit: Compiled (64-bit): May 20 2022 15:42:17
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2023.02.07-11.38.54:035][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2023.02.07-11.38.54:035][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2023.02.07-11.38.54:035][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2023.02.07-11.38.54:035][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2023.02.07-11.38.54:035][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2023.02.07-11.38.54:035][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2023.02.07-11.38.54:035][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2023.02.07-11.38.54:035][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2023.02.07-11.38.54:035][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2023.02.07-11.38.54:035][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2023.02.07-11.38.54:035][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2023.02.07-11.38.54:035][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2023.02.07-11.38.54:035][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2023.02.07-11.38.54:035][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2023.02.07-11.38.54:035][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2023.02.07-11.38.54:035][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2023.02.07-11.38.54:035][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2023.02.07-11.38.54:035][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2023.02.07-11.38.54:035][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2023.02.07-11.38.54:035][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2023.02.07-11.38.54:035][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2023.02.07-11.38.54:035][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2023.02.07-11.38.54:035][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2023.02.07-11.38.54:035][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2023.02.07-11.38.54:035][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2023.02.07-11.38.54:035][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2023.02.07-11.38.54:035][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.02.07-11.38.54:035][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2023.02.07-11.38.54:035][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.02.07-11.38.54:035][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2023.02.07-11.38.54:035][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2023.02.07-11.38.54:035][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2023.02.07-11.38.54:035][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2023.02.07-11.38.54:035][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2023.02.07-11.38.54:035][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2023.02.07-11.38.54:035][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2023.02.07-11.38.54:035][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2023.02.07-11.38.54:035][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2023.02.07-11.38.54:035][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2023.02.07-11.38.54:035][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2023.02.07-11.38.54:035][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2023.02.07-11.38.54:035][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.02.07-11.38.54:035][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.02.07-11.38.54:035][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2023.02.07-11.38.54:035][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2023.02.07-11.38.54:035][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2023.02.07-11.38.54:035][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2023.02.07-11.38.54:035][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2023.02.07-11.38.54:035][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2023.02.07-11.38.54:035][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2023.02.07-11.38.54:035][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2023.02.07-11.38.54:035][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2023.02.07-11.38.54:035][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2023.02.07-11.38.54:035][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2023.02.07-11.38.54:035][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2023.02.07-11.38.54:035][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2023.02.07-11.38.54:035][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2023.02.07-11.38.54:041][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2023.02.07-11.38.54:041][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2023.02.07-11.38.54:041][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2023.02.07-11.38.54:041][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.02.07-11.38.54:041][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.02.07-11.38.54:041][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.02.07-11.38.54:041][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.02.07-11.38.54:041][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.02.07-11.38.54:041][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2023.02.07-11.38.54:041][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2023.02.07-11.38.54:041][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2023.02.07-11.38.54:055][  0]LogD3D12RHI: Aftermath initialized
+[2023.02.07-11.38.54:055][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2023.02.07-11.38.54:219][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 2080 (Max supported Feature Level 12_1, shader model 6.6)
+[2023.02.07-11.38.54:219][  0]LogD3D12RHI: Adapter has 8010MB of dedicated video memory, 0MB of dedicated system memory, and 16323MB of shared system memory, 2 output[s]
+[2023.02.07-11.38.54:312][  0]LogD3D12RHI: Found D3D12 adapter 1: Intel(R) UHD Graphics 630 (Max supported Feature Level 12_1, shader model 6.5)
+[2023.02.07-11.38.54:312][  0]LogD3D12RHI: Adapter has 128MB of dedicated video memory, 0MB of dedicated system memory, and 16323MB of shared system memory, 0 output[s]
+[2023.02.07-11.38.54:323][  0]LogD3D12RHI: Found D3D12 adapter 2: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2023.02.07-11.38.54:323][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 16323MB of shared system memory, 0 output[s]
+[2023.02.07-11.38.54:412][  0]LogD3D12RHI: Found D3D12 adapter 3: NVIDIA GeForce RTX 2080 (Max supported Feature Level 12_1, shader model 6.6)
+[2023.02.07-11.38.54:412][  0]LogD3D12RHI: Adapter has 8010MB of dedicated video memory, 0MB of dedicated system memory, and 16323MB of shared system memory, 0 output[s]
+[2023.02.07-11.38.54:412][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2023.02.07-11.38.54:424][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.02.07-11.38.54:424][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2023.02.07-11.38.54:424][  0]LogHAL: Display: Platform has ~ 32 GB [34233622528 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.02.07-11.38.54:424][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2023.02.07-11.38.54:424][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.02.07-11.38.54:424][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.02.07-11.38.54:425][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2023.02.07-11.38.54:425][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Temp/RT/MastersSemester3/TeethProject/Saved/Config/WindowsEditor/Editor.ini]
+[2023.02.07-11.38.54:425][  0]LogInit: Computer: AMTX201-016
+[2023.02.07-11.38.54:425][  0]LogInit: User: rt5crt
+[2023.02.07-11.38.54:425][  0]LogInit: CPU Page size=4096, Cores=6
+[2023.02.07-11.38.54:425][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.02.07-11.38.54:425][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2023.02.07-11.38.54:425][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2023.02.07-11.38.54:425][  0]LogMemory: Process Physical Memory: 278.27 MB used, 288.49 MB peak
+[2023.02.07-11.38.54:425][  0]LogMemory: Process Virtual Memory: 236.89 MB used, 236.89 MB peak
+[2023.02.07-11.38.54:425][  0]LogMemory: Physical Memory: 8586.93 MB used,  24060.80 MB free, 32647.73 MB total
+[2023.02.07-11.38.54:425][  0]LogMemory: Virtual Memory: 10756.53 MB used,  26755.20 MB free, 37511.73 MB total
+[2023.02.07-11.38.54:425][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2023.02.07-11.38.54:430][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.02.07-11.38.54:440][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2023.02.07-11.38.54:441][  0]LogInit: Using OS detected language (en-US).
+[2023.02.07-11.38.54:441][  0]LogInit: Using OS detected locale (en-GB).
+[2023.02.07-11.38.54:446][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2023.02.07-11.38.54:638][  0]LogInit: Setting process to per monitor DPI aware
+[2023.02.07-11.38.54:650][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2023.02.07-11.38.54:650][  0]LogWindowsTextInputMethodSystem:   - English (United Kingdom) - (Keyboard).
+[2023.02.07-11.38.54:650][  0]LogWindowsTextInputMethodSystem:   - English (United Kingdom) - Touch Input Correction (TSF IME).
+[2023.02.07-11.38.54:650][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2023.02.07-11.38.54:688][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.02.07-11.38.54:688][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.02.07-11.38.56:655][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2023.02.07-11.38.56:659][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2023.02.07-11.38.56:659][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2023.02.07-11.38.56:747][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2023.02.07-11.38.56:747][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2023.02.07-11.38.56:747][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2023.02.07-11.38.56:747][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2023.02.07-11.38.56:747][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2023.02.07-11.38.56:747][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2023.02.07-11.38.56:747][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2023.02.07-11.38.56:747][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2023.02.07-11.38.56:747][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2023.02.07-11.38.56:747][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2023.02.07-11.38.56:747][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2023.02.07-11.38.56:747][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2023.02.07-11.38.56:747][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2023.02.07-11.38.56:747][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2023.02.07-11.38.56:747][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2023.02.07-11.38.56:747][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2023.02.07-11.38.56:798][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2023.02.07-11.38.56:803][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2023.02.07-11.38.56:814][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2023.02.07-11.38.56:827][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2023.02.07-11.38.56:827][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2023.02.07-11.38.56:872][  0]LogD3D12RHI:     GPU DeviceId: 0x1e82 (for the marketing name, search the web for "GPU Device Id")
+[2023.02.07-11.38.56:872][  0]LogWindows: Attached monitors:
+[2023.02.07-11.38.56:872][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1040), device: '\\.\DISPLAY1' [PRIMARY]
+[2023.02.07-11.38.56:872][  0]LogWindows:     resolution: 1920x1080, work area: (1920, 0) -> (3840, 1040), device: '\\.\DISPLAY2'
+[2023.02.07-11.38.56:872][  0]LogWindows: Found 2 attached monitors.
+[2023.02.07-11.38.56:872][  0]LogWindows: EnumDisplayDevices:
+[2023.02.07-11.38.56:872][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2080' (P:1 D:1), name: '\\.\DISPLAY1'
+[2023.02.07-11.38.56:872][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2080' (P:0 D:1), name: '\\.\DISPLAY2'
+[2023.02.07-11.38.56:872][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2080' (P:0 D:0), name: '\\.\DISPLAY3'
+[2023.02.07-11.38.56:872][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2080' (P:0 D:0), name: '\\.\DISPLAY4'
+[2023.02.07-11.38.56:873][  0]LogWindows:    4. 'Intel(R) UHD Graphics 630' (P:0 D:0), name: '\\.\DISPLAY5'
+[2023.02.07-11.38.56:873][  0]LogWindows:    5. 'Intel(R) UHD Graphics 630' (P:0 D:0), name: '\\.\DISPLAY6'
+[2023.02.07-11.38.56:873][  0]LogWindows:    6. 'VMware Horizon Indirect Display Driver' (P:0 D:0), name: '\\.\DISPLAY7'
+[2023.02.07-11.38.56:873][  0]LogWindows:    7. 'VMware Horizon Indirect Display Driver' (P:0 D:0), name: '\\.\DISPLAY8'
+[2023.02.07-11.38.56:874][  0]LogWindows:    8. 'VMware Horizon Indirect Display Driver' (P:0 D:0), name: '\\.\DISPLAY9'
+[2023.02.07-11.38.56:874][  0]LogWindows:    9. 'VMware Horizon Indirect Display Driver' (P:0 D:0), name: '\\.\DISPLAY10'
+[2023.02.07-11.38.56:874][  0]LogWindows:    10. 'VMware Horizon Indirect Display Driver' (P:0 D:0), name: '\\.\DISPLAY11'
+[2023.02.07-11.38.56:874][  0]LogWindows:    11. 'VMware Horizon Indirect Display Driver' (P:0 D:0), name: '\\.\DISPLAY12'
+[2023.02.07-11.38.56:874][  0]LogWindows:    12. 'VMware Horizon Indirect Display Driver' (P:0 D:0), name: '\\.\DISPLAY13'
+[2023.02.07-11.38.56:875][  0]LogWindows:    13. 'VMware Horizon Indirect Display Driver' (P:0 D:0), name: '\\.\DISPLAY14'
+[2023.02.07-11.38.56:875][  0]LogWindows:    14. 'VMware Horizon Indirect Display Driver' (P:0 D:0), name: '\\.\DISPLAY15'
+[2023.02.07-11.38.56:875][  0]LogWindows:    15. 'VMware Horizon Indirect Display Driver' (P:0 D:0), name: '\\.\DISPLAY16'
+[2023.02.07-11.38.56:875][  0]LogWindows:    16. 'VMware Horizon Indirect Display Driver' (P:0 D:0), name: '\\.\DISPLAY17'
+[2023.02.07-11.38.56:875][  0]LogWindows:    17. 'VMware Horizon Indirect Display Driver' (P:0 D:0), name: '\\.\DISPLAY18'
+[2023.02.07-11.38.56:876][  0]LogWindows:    18. 'VMware Horizon Indirect Display Driver' (P:0 D:0), name: '\\.\DISPLAY19'
+[2023.02.07-11.38.56:876][  0]LogWindows:    19. 'VMware Horizon Indirect Display Driver' (P:0 D:0), name: '\\.\DISPLAY20'
+[2023.02.07-11.38.56:876][  0]LogWindows:    20. 'VMware Horizon Indirect Display Driver' (P:0 D:0), name: '\\.\DISPLAY21'
+[2023.02.07-11.38.56:876][  0]LogWindows:    21. 'VMware Horizon Indirect Display Driver' (P:0 D:0), name: '\\.\DISPLAY22'
+[2023.02.07-11.38.56:876][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2023.02.07-11.38.56:876][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 2080
+[2023.02.07-11.38.56:876][  0]LogD3D12RHI:   Driver Version: 516.93 (internal:31.0.15.1693, unified:516.93)
+[2023.02.07-11.38.56:876][  0]LogD3D12RHI:      Driver Date: 7-21-2022
+[2023.02.07-11.38.56:876][  0]LogRHI: Texture pool is 4562 MB (70% of 6517 MB)
+[2023.02.07-11.38.56:876][  0]LogD3D12RHI: Async texture creation enabled
+[2023.02.07-11.38.56:876][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2023.02.07-11.38.56:887][  0]LogRHI: GeForceNow SDK initialized: 0
+[2023.02.07-11.38.56:891][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Temp/RT/MastersSemester3/TeethProject/TeethProject.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Temp/RT/MastersSemester3/TeethProject/Intermediate/TurnkeyReport_0.log" -log="C:/Temp/RT/MastersSemester3/TeethProject/Intermediate/TurnkeyLog_0.log" -project="C:/Temp/RT/MastersSemester3/TeethProject/TeethProject.uproject"  -platform=all'
+[2023.02.07-11.38.56:891][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Temp/RT/MastersSemester3/TeethProject/TeethProject.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Temp/RT/MastersSemester3/TeethProject/Intermediate/TurnkeyReport_0.log" -log="C:/Temp/RT/MastersSemester3/TeethProject/Intermediate/TurnkeyLog_0.log" -project="C:/Temp/RT/MastersSemester3/TeethProject/TeethProject.uproject"  -platform=all" ]
+[2023.02.07-11.38.56:913][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2023.02.07-11.38.56:920][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2023.02.07-11.38.56:920][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2023.02.07-11.38.56:925][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.02.07-11.38.56:925][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.02.07-11.38.56:926][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.02.07-11.38.56:926][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.02.07-11.38.56:926][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.02.07-11.38.56:926][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.02.07-11.38.56:926][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.02.07-11.38.56:926][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.02.07-11.38.56:926][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.02.07-11.38.56:926][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.02.07-11.38.56:947][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2023.02.07-11.38.56:947][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2023.02.07-11.38.56:950][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.02.07-11.38.56:950][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.02.07-11.38.56:953][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.02.07-11.38.56:953][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2023.02.07-11.38.56:953][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.02.07-11.38.56:953][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.02.07-11.38.56:955][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2023.02.07-11.38.56:955][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2023.02.07-11.38.56:955][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2023.02.07-11.38.56:958][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.02.07-11.38.56:958][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.02.07-11.38.56:962][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.02.07-11.38.56:962][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2023.02.07-11.38.56:962][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.02.07-11.38.56:962][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.02.07-11.38.56:962][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2023.02.07-11.38.56:968][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.02.07-11.38.56:971][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2023.02.07-11.38.56:971][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2023.02.07-11.38.56:971][  0]LogTargetPlatformManager:   ADPCM
+[2023.02.07-11.38.56:971][  0]LogTargetPlatformManager:   PCM
+[2023.02.07-11.38.56:973][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2023.02.07-11.38.56:973][  0]LogTargetPlatformManager:   BINKA
+[2023.02.07-11.38.56:973][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2023.02.07-11.38.56:973][  0]LogTargetPlatformManager:   OGG
+[2023.02.07-11.38.56:973][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2023.02.07-11.38.56:973][  0]LogTargetPlatformManager:   OPUS
+[2023.02.07-11.38.57:007][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2023.02.07-11.38.57:011][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2023.02.07-11.38.57:011][  0]LogTargetPlatformManager:   SF_METAL
+[2023.02.07-11.38.57:011][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2023.02.07-11.38.57:011][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2023.02.07-11.38.57:011][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2023.02.07-11.38.57:011][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2023.02.07-11.38.57:011][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2023.02.07-11.38.57:011][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2023.02.07-11.38.57:011][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2023.02.07-11.38.57:011][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2023.02.07-11.38.57:011][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2023.02.07-11.38.57:011][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2023.02.07-11.38.57:011][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2023.02.07-11.38.57:011][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2023.02.07-11.38.57:011][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2023.02.07-11.38.57:011][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2023.02.07-11.38.57:013][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2023.02.07-11.38.57:013][  0]LogTargetPlatformManager:   VVM_1_0
+[2023.02.07-11.38.57:013][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2023.02.07-11.38.57:013][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2023.02.07-11.38.57:013][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2023.02.07-11.38.57:013][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2023.02.07-11.38.57:013][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2023.02.07-11.38.57:013][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.02.07-11.38.57:014][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Temp/RT/MastersSemester3/TeethProject/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.02.07-11.38.57:018][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.02.07-11.38.57:018][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Temp/RT/MastersSemester3/TeethProject/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.02.07-11.38.57:022][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.02.07-11.38.57:024][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Temp/RT/MastersSemester3/TeethProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.02.07-11.38.57:024][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2023.02.07-11.38.57:024][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Temp/RT/MastersSemester3/TeethProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.02.07-11.38.57:024][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2023.02.07-11.38.57:043][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1096 MiB)
+[2023.02.07-11.38.57:043][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.02.07-11.38.57:043][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2023.02.07-11.38.57:052][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2023.02.07-11.38.57:052][  0]LogDerivedDataCache: Speed tests for C:/Users/rt5crt/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2023.02.07-11.38.57:052][  0]LogDerivedDataCache: Display: Performance to C:/Users/rt5crt/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=297.02MBs, RandomWriteSpeed=198.12MBs. Assigned SpeedClass 'Local'
+[2023.02.07-11.38.57:052][  0]LogDerivedDataCache: Using Local data cache path C:/Users/rt5crt/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.02.07-11.38.57:052][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.02.07-11.38.57:052][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2023.02.07-11.38.57:058][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2023.02.07-11.38.57:058][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2023.02.07-11.38.57:058][  0]LogShaderCompilers: Guid format shader working directory is -9 characters bigger than the processId version (../../../../../../Temp/RT/MastersSemester3/TeethProject/Intermediate/Shaders/WorkingDirectory/12052/).
+[2023.02.07-11.38.57:058][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/rt5crt/AppData/Local/Temp/UnrealShaderWorkingDir/8C4E059141214C1B7C7DECBFB52AD91D/'.
+[2023.02.07-11.38.57:058][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.02.07-11.38.57:058][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 9 workers.
+[2023.02.07-11.39.01:256][  0]LogSlate: Using FreeType 2.10.0
+[2023.02.07-11.39.01:256][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.02.07-11.39.01:295][  0]LogAssetRegistry: FAssetRegistry took 0.0139 seconds to start up
+[2023.02.07-11.39.01:300][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2023.02.07-11.39.01:491][  0]LogSerialization: UsePackageTrailer: 'false'
+[2023.02.07-11.39.01:492][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2023.02.07-11.39.01:795][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.02.07-11.39.01:795][  0]LogDeviceProfileManager: Active device profile: [000007D55216B280][000007D546EA0000 50] WindowsEditor
+[2023.02.07-11.39.01:795][  0]LogDeviceProfileManager: Profiles: [000007D55216AD40][000007D546E1A000 50] Windows, [000007D55216B280][000007D546EA0000 50] WindowsEditor, [000007D55216AB80][000007D546E62800 50] WindowsServer, [000007D55216A640][000007D53227C800 50] WindowsClient, [000007D552167FC0][000007D552570000 50] IOS, [000007D55216A480][000007D552575000 50] iPadAir2, [000007D552167000][000007D55257A000 50] IPadPro, [000007D552167E00][000007D552577800 50] iPadAir3, [000007D55216A2C0][000007D55257C800 50] iPadAir4, [000007D55216A100][000007D546E65000 50] iPadMini4, [000007D55216B980][000007D552580000 50] iPadMini5, [000007D55216A800][000007D552585000 50] iPadMini6, [000007D55216E380][000007D55258C800 50] iPhone6S, [000007D55216E700][000007D55258A000 50] iPhone7, [000007D55216EA80][000007D552587800 50] iPodTouch7, [000007D55216D580][000007D552572800 50] iPhone6SPlus, [000007D552168180][000007D552590000 50] iPhone7Plus, [000007D552169140][000007D552595000 50] iPhoneSE, [000007D552166200][000007D552597800 50] iPhone8, [000007D55216CE80][000007D55259A000 50] iPhone8Plus, [000007D5521678C0][000007D55259C800 50] iPhoneX, [000007D552169D80][000007D552582800 50] iPhoneXS, [000007D552169F40][000007D5525A0000 50] iPhoneXSMax, [000007D552168500][000007D5525A5000 50] iPhoneXR, [000007D552169BC0][000007D5525A7800 50] iPhone11, [000007D55216D3C0][000007D5525AA000 50] iPhone11Pro, [000007D552168340][000007D5525AC800 50] iPhone11ProMax, [000007D55216C080][000007D552592800 50] iPhoneSE2, [000007D55216B600][000007D5525B0000 50] iPhone12Mini, [000007D55216B7C0][000007D5525B5000 50] iPhone12, [000007D55216DE40][000007D5525B7800 50] iPhone12Pro, [000007D552169300][000007D5525BA000 50] iPhone12ProMax, [000007D55216CCC0][000007D5525BC800 50] iPhone13Mini, [000007D552169680][000007D5525A2800 50] iPhone13, [000007D55216C780][000007D5525D0000 50] iPhone13Pro, [000007D552168DC0][000007D5525D5000 50] iPhone13ProMax, [000007D55216E000][000007D5525D7800 50] iPadPro105, [000007D552167540][000007D5525DA000 50] iPadPro129, [000007D552168A40][000007D5525DC800 50] iPadPro97, [000007D55216C940][000007D5525B2800 50] iPadPro2_129, [000007D552168C00][000007D5525E0000 50] iPad5, [000007D55216C240][000007D5525E5000 50] iPad6, [000007D552166E40][000007D5525E7800 50] iPad7, [000007D55216E540][000007D5525EA000 50] iPad8, [000007D552168880][000007D5525EC800 50] iPad9, [000007D55216CB00][000007D5525D2800 50] iPadPro11, [000007D552168F80][000007D5525F0000 50] iPadPro2_11, [000007D55216C400][000007D5525F5000 50] iPadPro3_11, [000007D5521686C0][000007D5525F7800 50] iPadPro3_129, [000007D552169A00][000007D5525FA000 50] iPadPro4_129, [000007D55216D200][000007D5525FC800 50] iPadPro5_129, [000007D55216A9C0][000007D5525E2800 50] AppleTV, [000007D55216DC80][000007D552600000 50] AppleTV4K, [000007D55216B440][000007D552605000 50] TVOS, [000007D552640700][000007D55260A000 50] Mac, [000007D552640A80][000007D552607800 50] MacEditor, [000007D552642840][000007D55260C800 50] MacClient, [000007D552642300][000007D5525F2800 50] MacServer, [000007D552644980][000007D552612800 50] Linux, [000007D552644D00][000007D552610000 50] LinuxEditor, [000007D5526424C0][000007D552617800 50] LinuxArm64Editor, [000007D552644440][000007D55261A000 50] LinuxArm64, [000007D552642A00][000007D55261C800 50] LinuxClient, [000007D552643F00][000007D552602800 50] LinuxArm64Client, [000007D552640540][000007D552620000 50] LinuxServer, [000007D552642680][000007D552625000 50] LinuxArm64Server, [000007D5526408C0][000007D552627800 50] Android, [000007D552643100][000007D55262A000 50] Android_Preview_OpenGL, [000007D552640380][000007D55262C800 50] Android_Preview_Vulkan, [000007D552642140][000007D552615000 50] Android_Low, [000007D552640000][000007D552630000 50] Android_Mid, [000007D552644B40][000007D552635000 50] Android_High, [000007D552644280][000007D552637800 50] Android_Default, [000007D552641340][000007D55263A000 50] Android_Adreno4xx, [000007D552640FC0][000007D55263C800 50] Android_Adreno5xx_Low, [000007D552641880][000007D552622800 50] Android_Adreno5xx, [000007D552643D40][000007D552650000 50] Android_Adreno6xx, [000007D552640C40][000007D552655000 50] Android_Adreno6xx_Vulkan, [000007D552641F80][000007D552657800 50] Android_Adreno7xx, [000007D5526401C0][000007D55265A000 50] Android_Adreno7xx_Vulkan, [000007D552641500][000007D55265C800 50] Android_Mali_T6xx, [000007D552642BC0][000007D552632800 50] Android_Mali_T7xx, [000007D552644EC0][000007D552660000 50] Android_Mali_T8xx, [000007D5526455C0][000007D552665000 50] Android_Mali_G71, [000007D552645240][000007D552667800 50] Android_Mali_G72, [000007D552645080][000007D55266A000 50] Android_Mali_G72_Vulkan, [000007D552643640][000007D55266C800 50] Android_Mali_G76, [000007D552641180][000007D552652800 50] Android_Mali_G76_Vulkan, [000007D552645400][000007D552670000 50] Android_Mali_G77, [000007D552645780][000007D552675000 50] Android_Mali_G77_Vulkan, [000007D552642D80][000007D552677800 50] Android_Mali_G78, [000007D552645E80][000007D55267A000 50] Android_Mali_G78_Vulkan, [000007D552646580][000007D55267C800 50] Android_Mali_G710, [000007D552646200][000007D552662800 50] Android_Mali_G710_Vulkan, [000007D552646040][000007D552680000 50] Android_Xclipse_920, [000007D552641DC0][000007D552685000 50] Android_Xclipse_920_Vulkan, [000007D552643B80][000007D552687800 50] Android_Vulkan_SM5, [000007D552646740][000007D55268A000 50] Android_PowerVR_G6xxx, [000007D5526447C0][000007D55268C800 50] Android_PowerVR_GT7xxx, [000007D552646E40][000007D552672800 50] Android_PowerVR_GE8xxx, [000007D552647540][000007D552690000 50] Android_PowerVR_GM9xxx, [000007D5526471C0][000007D552695000 50] Android_PowerVR_GM9xxx_Vulkan, [000007D552647000][000007D552697800 50] Android_TegraK1, [000007D552643800][000007D55269A000 50] Android_Unknown_Vulkan, [000007D552641C00][000007D55269C800 50] Oculus_Quest, [000007D552647380][000007D552682800 50] Oculus_Quest2, [000007D552647700][000007D5526A0000 50] HoloLens, 
+[2023.02.07-11.39.01:796][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2023.02.07-11.39.01:883][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2023.02.07-11.39.02:050][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.02.07-11.39.02:050][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.02.07-11.39.02:050][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.02.07-11.39.02:050][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.02.07-11.39.02:050][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.02.07-11.39.02:090][  0]LogNetVersion: TeethProject 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 352800644)
+[2023.02.07-11.39.02:551][  0]LogSlate: Border
+[2023.02.07-11.39.02:551][  0]LogSlate: BreadcrumbButton
+[2023.02.07-11.39.02:551][  0]LogSlate: Default
+[2023.02.07-11.39.02:551][  0]LogSlate: Icons.Save
+[2023.02.07-11.39.02:551][  0]LogSlate: Icons.Toolbar.Settings
+[2023.02.07-11.39.02:551][  0]LogSlate: ListView
+[2023.02.07-11.39.02:551][  0]LogSlate: SoftwareCursor_CardinalCross
+[2023.02.07-11.39.02:551][  0]LogSlate: SoftwareCursor_Grab
+[2023.02.07-11.39.02:551][  0]LogSlate: TableView.DarkRow
+[2023.02.07-11.39.02:551][  0]LogSlate: TableView.Row
+[2023.02.07-11.39.02:551][  0]LogSlate: TreeView
+[2023.02.07-11.39.02:911][  0]SourceControl: Source control is disabled
+[2023.02.07-11.39.02:977][  0]SourceControl: Source control is disabled
+[2023.02.07-11.39.02:977][  0]SourceControl: Source control is disabled
+[2023.02.07-11.39.03:148][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2023.02.07-11.39.03:148][  0]LogUObjectAllocator: 5584256 out of 0 bytes used by permanent object pool.
+[2023.02.07-11.39.03:148][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.02.07-11.39.03:608][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: DC0DB493439F3867CED1DA80643913DA | Instance: E676F52A4097C46CC43A0688E7A6FBFD (AMTX201-016-12052).
+[2023.02.07-11.39.03:640][  0]LogPython: Using Python 3.9.7
+[2023.02.07-11.39.04:585][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.02.07-11.39.04:589][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.02.07-11.39.04:662][  0]SourceControl: Source control is disabled
+[2023.02.07-11.39.04:664][  0]SourceControl: Source control is disabled
+[2023.02.07-11.39.04:687][  0]SourceControl: Source control is disabled
+[2023.02.07-11.39.04:714][  0]LogUProjectInfo: Found projects:
+[2023.02.07-11.39.05:019][  0]LogOpenImageDenoise: OIDN starting up
+[2023.02.07-11.39.05:058][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.02.07-11.39.05:077][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.02.07-11.39.05:077][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.02.07-11.39.05:157][  0]LogCollectionManager: Loaded 0 collections in 0.001729 seconds
+[2023.02.07-11.39.05:223][  0]LogFileCache: Scanning file cache for directory 'C:/Temp/RT/MastersSemester3/TeethProject/Saved/Collections/' took 0.00s
+[2023.02.07-11.39.05:223][  0]LogFileCache: Scanning file cache for directory 'C:/Temp/RT/MastersSemester3/TeethProject/Content/Developers/rt5crt/Collections/' took 0.00s
+[2023.02.07-11.39.05:223][  0]LogFileCache: Scanning file cache for directory 'C:/Temp/RT/MastersSemester3/TeethProject/Content/Collections/' took 0.00s
+[2023.02.07-11.39.05:531][  0]LogEngine: Initializing Engine...
+[2023.02.07-11.39.05:543][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2023.02.07-11.39.05:545][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.02.07-11.39.05:991][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.02.07-11.39.05:991][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.02.07-11.39.06:000][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.07-11.39.06:028][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.02.07-11.39.06:028][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.02.07-11.39.06:049][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.02.07-11.39.06:053][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.02.07-11.39.06:053][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.02.07-11.39.06:053][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.02.07-11.39.06:053][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.02.07-11.39.06:053][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.07-11.39.06:053][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.07-11.39.06:053][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.07-11.39.06:053][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.07-11.39.06:054][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.07-11.39.06:054][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.07-11.39.06:054][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.07-11.39.06:054][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.07-11.39.06:054][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.07-11.39.06:054][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.07-11.39.06:054][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.07-11.39.06:060][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.07-11.39.06:118][  0]LogAudioMixer: Display: Using Audio Hardware Device PLE2283H (NVIDIA High Definition Audio)
+[2023.02.07-11.39.06:118][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.07-11.39.06:137][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.07-11.39.06:137][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.07-11.39.06:137][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.02.07-11.39.06:137][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.02.07-11.39.06:139][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.02.07-11.39.06:139][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.02.07-11.39.06:139][  0]LogInit: FAudioDevice initialized.
+[2023.02.07-11.39.06:139][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.02.07-11.39.06:139][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.02.07-11.39.06:139][  0]LogInit: Texture streaming: Enabled
+[2023.02.07-11.39.06:172][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.2-20280985+++UE5+Release-5.0
+[2023.02.07-11.39.06:181][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.02.07-11.39.06:181][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={E02108B6-4596-BEF1-DB8E-1BB5F3257E72}
+[2023.02.07-11.39.06:215][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.02.07-11.39.06:221][  0]LogLiveCoding: Display: Starting LiveCoding
+[2023.02.07-11.39.06:221][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2023.02.07-11.39.07:101][  0]LogLiveCoding: Display: First instance in process group "UE_TeethProject_0xff714c24", spawning console
+[2023.02.07-11.39.07:101][  0]LogLiveCoding: Display: Waiting for server
+[2023.02.07-11.39.07:101][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2023.02.07-11.39.07:128][  0]LogInit: Transaction tracking system initialized
+[2023.02.07-11.39.07:204][  0]BlueprintLog: New page: Editor Load
+[2023.02.07-11.39.07:399][  0]LocalizationService: Localization service is disabled
+[2023.02.07-11.39.07:447][  0]TimingProfiler: Initialize
+[2023.02.07-11.39.07:447][  0]TimingProfiler: OnSessionChanged
+[2023.02.07-11.39.07:447][  0]LoadingProfiler: Initialize
+[2023.02.07-11.39.07:447][  0]LoadingProfiler: OnSessionChanged
+[2023.02.07-11.39.07:447][  0]NetworkingProfiler: Initialize
+[2023.02.07-11.39.07:447][  0]NetworkingProfiler: OnSessionChanged
+[2023.02.07-11.39.07:447][  0]MemoryProfiler: Initialize
+[2023.02.07-11.39.07:447][  0]MemoryProfiler: OnSessionChanged
+[2023.02.07-11.39.08:312][  0]LogFileCache: Scanning file cache for directory 'C:/Temp/RT/MastersSemester3/TeethProject/Content/' took 0.01s
+[2023.02.07-11.39.08:312][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.02.07-11.39.08:396][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.02.07-11.39.08:398][  0]SourceControl: Source control is disabled
+[2023.02.07-11.39.08:530][  0]LogSlate: Took 0.000153 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.02.07-11.39.43:016][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2023.02.07-11.39.45:463][  0]LogSlate: Window 'Unable to Check Out From Source Control!' being destroyed
+[2023.02.07-11.39.45:468][  0]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5
+[2023.02.07-11.39.45:476][  0]LogUnrealEdMisc: Loading editor; pre map load, took 53.296
+[2023.02.07-11.39.45:477][  0]Cmd: MAP LOAD FILE="../../../../../../Temp/RT/MastersSemester3/TeethProject/Content/FirstPerson/Maps/FirstPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.02.07-11.39.45:484][  0]LightingResults: New page: Lighting Build
+[2023.02.07-11.39.45:493][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.02.07-11.39.45:493][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.07-11.39.45:493][  0]MapCheck: New page: Map Check
+[2023.02.07-11.39.45:493][  0]LightingResults: New page: Lighting Build
+[2023.02.07-11.39.45:499][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.07-11.39.45:502][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.02.07-11.39.45:937][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonMap'.
+[2023.02.07-11.39.45:944][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.07-11.39.45:944][  0]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.02.07-11.39.45:944][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.02.07-11.39.45:944][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2023.02.07-11.39.46:377][  0]LogWorldPartition: Display: WorldPartition initialize took 433 ms
+[2023.02.07-11.39.46:385][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.07-11.39.46:393][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.02.07-11.39.46:393][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.07-11.39.46:394][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.215ms to complete.
+[2023.02.07-11.39.46:394][  0]LogFileHelpers: Loading map 'FirstPersonMap' took 0.917
+[2023.02.07-11.39.46:408][  0]LogUnrealEdMisc: Total Editor Startup Time, took 54.228
+[2023.02.07-11.39.46:408][  0]LogShaderCompilers: Display: ================================================
+[2023.02.07-11.39.46:408][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.07-11.39.46:408][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.02.07-11.39.46:409][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.02.07-11.39.46:409][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2023.02.07-11.39.46:409][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.02.07-11.39.46:409][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.02.07-11.39.46:409][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.02.07-11.39.46:409][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.02.07-11.39.46:409][  0]LogShaderCompilers: Display: ================================================
+[2023.02.07-11.39.46:469][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.07-11.39.46:475][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.07-11.39.46:480][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.07-11.39.46:484][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.07-11.39.46:547][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2023.02.07-11.39.46:547][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.02.07-11.39.46:553][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2023.02.07-11.39.46:553][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.02.07-11.39.46:559][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2023.02.07-11.39.46:559][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.02.07-11.39.46:564][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2023.02.07-11.39.46:564][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.02.07-11.39.46:575][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2023.02.07-11.39.46:575][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.02.07-11.39.46:580][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2023.02.07-11.39.46:580][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.02.07-11.39.46:585][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2023.02.07-11.39.46:585][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.02.07-11.39.46:589][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2023.02.07-11.39.46:590][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.02.07-11.39.46:594][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2023.02.07-11.39.46:594][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.02.07-11.39.46:599][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.02.07-11.39.46:599][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.02.07-11.39.46:788][  0]LogSlate: Took 0.004014 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.02.07-11.39.46:794][  0]LogSlate: Took 0.004784 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.02.07-11.39.46:821][  0]LogViewport: Scene viewport resized to 1526x902, mode Windowed.
+[2023.02.07-11.39.47:293][  0]LogStall: Startup...
+[2023.02.07-11.39.47:294][  0]LogStall: Startup complete.
+[2023.02.07-11.39.47:318][  0]LogLoad: (Engine Initialization) Total time: 55.14 seconds
+[2023.02.07-11.39.47:318][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.02.07-11.39.47:335][  0]LogAssetRegistry: Asset discovery search completed in 46.0419 seconds
+[2023.02.07-11.39.47:358][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2023.02.07-11.39.47:361][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.02.07-11.39.47:533][  0]LogSlate: Took 0.005209 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.02.07-11.39.48:016][  4]LogNavigationDataBuild: Navigation data generation finished in /Game/FirstPerson/Maps/FirstPersonMap.
+[2023.02.07-11.39.50:789][231]LogSlate: Took 0.004681 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.02.07-11.39.50:798][231]LogSlate: Took 0.003933 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.02.07-11.39.52:978][456]LogStatusBar: Looking status bar with open content browser drawer...
+[2023.02.07-11.39.52:978][456]LogStatusBar: Using status bar: LevelEditor.StatusBar to dock content browser
+[2023.02.07-11.39.52:995][456]LogViewport: Scene viewport resized to 1526x585, mode Windowed.
+[2023.02.07-11.39.57:276][886]Cmd: DELETE
+[2023.02.07-11.39.57:276][886]Cmd: ACTOR DELETE
+[2023.02.07-11.39.57:277][886]LogEditorActor: Deleted Actor: BP_Rifle_C
+[2023.02.07-11.39.57:286][886]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.02.07-11.39.57:287][886]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2023.02.07-11.40.10:026][231]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C
+[2023.02.07-11.40.10:026][231]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C
+[2023.02.07-11.40.10:029][231]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter as actor: BP_FirstPersonCharacter_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_FirstPersonCharacter_C_0
+[2023.02.07-11.40.10:032][231]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter as actor: BP_FirstPersonCharacter_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_FirstPersonCharacter_C_0
+[2023.02.07-11.40.10:463][265]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C
+[2023.02.07-11.40.10:463][265]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C
+[2023.02.07-11.40.10:468][265]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter as actor: BP_FirstPersonCharacter_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_FirstPersonCharacter_C_UAID_04D4C4F26AB6476401_1513663255
+[2023.02.07-11.40.10:471][265]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter as actor: BP_FirstPersonCharacter_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_FirstPersonCharacter_C_UAID_04D4C4F26AB6476401_1513663255
+[2023.02.07-11.40.10:544][265]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.02.07-11.40.10:560][266]LogViewport: Scene viewport resized to 481x185, mode Windowed.
+[2023.02.07-11.40.15:703][618]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2023.02.07-11.40.15:703][618]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.07-11.40.17:268][618]LogSlate: Took 0.003895 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.02.07-11.40.27:292][389]LogViewport: Scene viewport resized to 1141x691, mode Windowed.
+[2023.02.07-11.40.29:014][487]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.02.07-11.40.30:909][601]LogUObjectGlobals: Warning: Failed to find object 'Class None.BP_FirstPersonCharacter'
+[2023.02.07-11.40.30:909][601]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter'
+[2023.02.07-11.40.32:093][674]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.02.07-11.40.57:064][214]LogDerivedDataCache: C:/Users/rt5crt/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.006 and deleted 0 file(s) with total size 0 MiB.
+[2023.02.07-11.41.02:466][540]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2023.02.07-11.41.02:569][540]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2023.02.07-11.41.02:611][540]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.02.07-11.41.02:707][541]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.02.07-11.41.02:719][541]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.02.07-11.41.02:741][542]LogViewport: Scene viewport resized to 481x185, mode Windowed.
+[2023.02.07-11.41.03:820][603]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.07-11.41.03:826][603]LogWorldPartition: Display: GenerateStreaming started...
+[2023.02.07-11.41.03:826][603]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.02.07-11.41.03:826][603]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.02.07-11.41.03:826][603]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.02.07-11.41.03:826][603]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.02.07-11.41.03:826][603]LogWorldPartition: Display: GetPartitionedActors took 56 us
+[2023.02.07-11.41.03:826][603]LogWorldPartition: Display: GenerateStreaming took 354 us
+[2023.02.07-11.41.03:826][603]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.07-11.41.03:827][603]PIE: New page: PIE session: FirstPersonMap (7 Feb 2023, 11:41:03)
+[2023.02.07-11.41.03:830][603]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.02.07-11.41.03:830][603]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.02.07-11.41.03:830][603]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.02.07-11.41.03:836][603]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.02.07-11.41.03:836][603]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006287s)
+[2023.02.07-11.41.03:836][603]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.006350s)
+[2023.02.07-11.41.03:836][603]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.07-11.41.03:837][603]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.02.07-11.41.03:837][603]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.02.07-11.41.03:837][603]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.02.07-11.41.03:839][603]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2023.02.07-11.41.03:839][603]LogPlayLevel: PIE: World Init took: (0.002308s)
+[2023.02.07-11.41.03:862][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2023.02.07-11.41.03:863][603]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.02.07-11.41.03:863][603]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.07-11.41.03:863][603]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.07-11.41.03:863][603]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.07-11.41.03:863][603]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.07-11.41.03:863][603]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.07-11.41.03:863][603]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.07-11.41.03:863][603]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.07-11.41.03:863][603]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.07-11.41.03:864][603]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.07-11.41.03:864][603]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.07-11.41.03:864][603]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.07-11.41.03:866][603]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.07-11.41.03:887][603]LogAudioMixer: Display: Using Audio Hardware Device PLE2283H (NVIDIA High Definition Audio)
+[2023.02.07-11.41.03:887][603]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.07-11.41.03:887][603]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.07-11.41.03:887][603]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.07-11.41.03:887][603]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.02.07-11.41.03:887][603]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.02.07-11.41.03:889][603]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.02.07-11.41.03:889][603]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.02.07-11.41.03:889][603]LogInit: FAudioDevice initialized.
+[2023.02.07-11.41.03:889][603]LogAudio: Display: Audio Device (ID: 2) registered with world 'FirstPersonMap'.
+[2023.02.07-11.41.03:899][603]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.02.07-11.41.03:901][603]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.02.07-11.41.03
+[2023.02.07-11.41.03:902][603]LogWorld: Bringing up level for play took: 0.002903
+[2023.02.07-11.41.03:904][603]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2023.02.07-11.41.03:918][603]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=850.000 Z=98.337
+[2023.02.07-11.41.03:918][603]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.02.07-11.41.03:918][603]PIE: Server logged in
+[2023.02.07-11.41.03:919][603]PIE: Play in editor total start time 0.094 seconds.
+[2023.02.07-11.41.10:000][211]LogBlueprintUserMessages: [BP_Rifle_GEN_VARIABLE_BP_Rifle_C_CAT_0] Cast to BP_FirstPersonCharacter FAILED
+[2023.02.07-11.41.10:082][220]LogBlueprintUserMessages: [BP_Rifle_GEN_VARIABLE_BP_Rifle_C_CAT_0] Cast to BP_FirstPersonCharacter FAILED
+[2023.02.07-11.41.12:273][452]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.07-11.41.12:273][452]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.02.07-11.41.12:273][452]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.07-11.41.12:274][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.07-11.41.12:288][452]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.07-11.41.12:294][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.07-11.41.12:322][452]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.07-11.41.12:325][452]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.02.07-11.41.12:327][452]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.02.07-11.41.12:330][452]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.07-11.41.12:349][452]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.02.07-11.41.12:443][453]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2023.02.07-11.41.12:452][453]LogViewport: Scene viewport resized to 481x185, mode Windowed.
+[2023.02.07-11.41.12:504][453]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.02.07-11.41.12:516][453]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.02.07-11.41.17:163][693]Cmd: DELETE
+[2023.02.07-11.41.17:163][693]Cmd: ACTOR DELETE
+[2023.02.07-11.41.17:165][693]LogEditorActor: Deleted Actor: BP_FirstPersonCharacter_C
+[2023.02.07-11.41.17:223][693]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.02.07-11.41.17:225][693]LogEditorActor: Deleted 1 Actors (0.062 secs)
+[2023.02.07-11.41.17:235][693]LogViewport: Scene viewport resized to 1141x693, mode Windowed.
+[2023.02.07-11.41.18:941][837]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.07-11.41.18:949][837]LogWorldPartition: Display: GenerateStreaming started...
+[2023.02.07-11.41.18:949][837]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.02.07-11.41.18:949][837]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.02.07-11.41.18:949][837]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.02.07-11.41.18:949][837]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.02.07-11.41.18:949][837]LogWorldPartition: Display: GetPartitionedActors took 52 us
+[2023.02.07-11.41.18:949][837]LogWorldPartition: Display: GenerateStreaming took 331 us
+[2023.02.07-11.41.18:949][837]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.07-11.41.18:949][837]PIE: New page: PIE session: FirstPersonMap (7 Feb 2023, 11:41:18)
+[2023.02.07-11.41.18:949][837]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.02.07-11.41.18:955][837]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.02.07-11.41.18:955][837]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005836s)
+[2023.02.07-11.41.18:955][837]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.005895s)
+[2023.02.07-11.41.18:956][837]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.07-11.41.18:956][837]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.02.07-11.41.18:956][837]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.02.07-11.41.18:956][837]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.02.07-11.41.18:958][837]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2023.02.07-11.41.18:958][837]LogPlayLevel: PIE: World Init took: (0.002238s)
+[2023.02.07-11.41.18:985][837]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.02.07-11.41.18:987][837]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.02.07-11.41.18:987][837]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.07-11.41.18:987][837]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.07-11.41.18:987][837]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.07-11.41.18:987][837]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.07-11.41.18:987][837]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.07-11.41.18:987][837]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.07-11.41.18:987][837]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.07-11.41.18:987][837]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.07-11.41.18:987][837]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.07-11.41.18:987][837]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.07-11.41.18:987][837]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.07-11.41.18:989][837]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.07-11.41.19:011][837]LogAudioMixer: Display: Using Audio Hardware Device PLE2283H (NVIDIA High Definition Audio)
+[2023.02.07-11.41.19:011][837]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.07-11.41.19:011][837]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.07-11.41.19:011][837]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.07-11.41.19:012][837]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2023.02.07-11.41.19:012][837]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2023.02.07-11.41.19:013][837]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2023.02.07-11.41.19:013][837]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2023.02.07-11.41.19:013][837]LogInit: FAudioDevice initialized.
+[2023.02.07-11.41.19:013][837]LogAudio: Display: Audio Device (ID: 3) registered with world 'FirstPersonMap'.
+[2023.02.07-11.41.19:022][837]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.02.07-11.41.19:024][837]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.02.07-11.41.19
+[2023.02.07-11.41.19:024][837]LogWorld: Bringing up level for play took: 0.001783
+[2023.02.07-11.41.19:025][837]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2023.02.07-11.41.19:027][837]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=850.000 Z=98.337
+[2023.02.07-11.41.19:027][837]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.02.07-11.41.19:027][837]PIE: Server logged in
+[2023.02.07-11.41.19:028][837]PIE: Play in editor total start time 0.08 seconds.
+[2023.02.07-11.42.30:738][921]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.07-11.42.30:739][921]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.02.07-11.42.30:739][921]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.07-11.42.30:741][921]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.07-11.42.30:760][921]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.07-11.42.30:769][921]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.07-11.42.30:801][921]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.07-11.42.30:801][921]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.02.07-11.42.30:804][921]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.02.07-11.42.30:813][921]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.02.07-11.42.30:841][922]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2023.02.07-11.43.35:899][705]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/FirstPersonArms/Animations/FirstPersonFire_Montage.FirstPersonFire_Montage
+[2023.02.07-11.43.35:923][705]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.07-11.43.35:985][705]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.02.07-11.43.36:230][705]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.07-11.43.36:670][705]LogViewport: Scene viewport resized to 738x320, mode Windowed.
+[2023.02.07-11.43.44:090][175]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/FirstPersonArms/Animations/FirstPerson_Run.FirstPerson_Run
+[2023.02.07-11.43.44:131][175]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.02.07-11.43.44:137][175]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.07-11.43.44:171][175]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.02.07-11.43.47:580][390]LogViewport: Scene viewport resized to 736x334, mode Windowed.
+[2023.02.07-11.43.47:669][392]LogViewport: Scene viewport resized to 1141x538, mode Windowed.
+[2023.02.07-11.43.47:764][393]LogViewport: Scene viewport resized to 1139x552, mode Windowed.
+[2023.02.07-11.43.47:860][395]LogViewport: Scene viewport resized to 467x189, mode Windowed.
+[2023.02.07-11.43.48:287][422]LogViewport: Scene viewport resized to 1141x538, mode Windowed.
+[2023.02.07-11.43.48:607][445]LogSlate: Window 'FirstPerson_Run' being destroyed
+[2023.02.07-11.43.49:501][509]LogViewport: Scene viewport resized to 128x128, mode Windowed.
+[2023.02.07-11.44.09:515][220]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.07-11.44.09:522][220]LogWorldPartition: Display: GenerateStreaming started...
+[2023.02.07-11.44.09:522][220]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.02.07-11.44.09:522][220]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.02.07-11.44.09:522][220]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.02.07-11.44.09:522][220]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.02.07-11.44.09:522][220]LogWorldPartition: Display: GetPartitionedActors took 84 us
+[2023.02.07-11.44.09:523][220]LogWorldPartition: Display: GenerateStreaming took 542 us
+[2023.02.07-11.44.09:523][220]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.07-11.44.09:523][220]PIE: New page: PIE session: FirstPersonMap (7 Feb 2023, 11:44:09)
+[2023.02.07-11.44.09:523][220]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.02.07-11.44.09:529][220]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.02.07-11.44.09:529][220]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006071s)
+[2023.02.07-11.44.09:529][220]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.006138s)
+[2023.02.07-11.44.09:529][220]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.07-11.44.09:530][220]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.02.07-11.44.09:530][220]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.02.07-11.44.09:530][220]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.02.07-11.44.09:531][220]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2023.02.07-11.44.09:531][220]LogPlayLevel: PIE: World Init took: (0.002157s)
+[2023.02.07-11.44.09:600][220]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2023.02.07-11.44.09:601][220]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.02.07-11.44.09:601][220]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.07-11.44.09:601][220]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.07-11.44.09:601][220]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.07-11.44.09:601][220]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.07-11.44.09:601][220]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.07-11.44.09:601][220]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.07-11.44.09:601][220]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.07-11.44.09:601][220]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.07-11.44.09:602][220]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.07-11.44.09:602][220]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.07-11.44.09:602][220]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.07-11.44.09:604][220]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.07-11.44.09:625][220]LogAudioMixer: Display: Using Audio Hardware Device PLE2283H (NVIDIA High Definition Audio)
+[2023.02.07-11.44.09:626][220]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.07-11.44.09:626][220]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.07-11.44.09:626][220]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.07-11.44.09:626][220]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2023.02.07-11.44.09:626][220]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2023.02.07-11.44.09:628][220]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2023.02.07-11.44.09:628][220]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2023.02.07-11.44.09:628][220]LogInit: FAudioDevice initialized.
+[2023.02.07-11.44.09:628][220]LogAudio: Display: Audio Device (ID: 4) registered with world 'FirstPersonMap'.
+[2023.02.07-11.44.09:638][220]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.02.07-11.44.09:640][220]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.02.07-11.44.09
+[2023.02.07-11.44.09:641][220]LogWorld: Bringing up level for play took: 0.001939
+[2023.02.07-11.44.09:642][220]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2023.02.07-11.44.09:644][220]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=850.000 Z=98.337
+[2023.02.07-11.44.09:644][220]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.02.07-11.44.09:644][220]PIE: Server logged in
+[2023.02.07-11.44.09:645][220]PIE: Play in editor total start time 0.126 seconds.
+[2023.02.07-11.44.22:586][584]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=-13.48 Y=-112.79 Z=0.00 Location: X=2625.76 Y=2134.37 Z=90.20 Normal: X=-0.01 Y=1.00 Z=-0.00 PenetrationDepth:0.096 Actor:StaticMeshActor_51 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2023.02.07-11.44.25:726][909]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=-13.10 Y=-15.07 Z=0.00 Location: X=2624.97 Y=2134.15 Z=90.21 Normal: X=-0.00 Y=1.00 Z=-0.00 PenetrationDepth:0.184 Actor:StaticMeshActor_51 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2023.02.07-11.44.27:225][ 62]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=-6.41 Y=-19.49 Z=0.00 Location: X=2692.86 Y=2134.22 Z=90.21 Normal: X=-0.00 Y=1.00 Z=0.00 PenetrationDepth:0.004 Actor:StaticMeshActor_49 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2023.02.07-11.44.28:121][151]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=24.00 Y=-1.23 Z=0.00 Location: X=2611.37 Y=2134.18 Z=90.21 Normal: X=0.00 Y=1.00 Z=-0.00 PenetrationDepth:0.002 Actor:StaticMeshActor_51 Component:StaticMeshComponent0 BoneName:None (2 other events since notify)
+[2023.02.07-11.44.28:232][162]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=-47.03 Y=70.95 Z=0.00 Location: X=2690.83 Y=2134.22 Z=90.21 Normal: X=-0.04 Y=1.00 Z=0.00 PenetrationDepth:0.074 Actor:StaticMeshActor_49 Component:StaticMeshComponent0 BoneName:None (16 other events since notify)
+[2023.02.07-11.44.30:956][446]LogBlueprintUserMessages: [BP_Rifle_GEN_VARIABLE_BP_Rifle_C_CAT_0] Cast to BP_FirstPersonCharacter FAILED
+[2023.02.07-11.44.30:965][447]LogBlueprintUserMessages: [BP_Rifle_GEN_VARIABLE_BP_Rifle_C_CAT_0] Cast to BP_FirstPersonCharacter FAILED
+[2023.02.07-11.44.30:974][448]LogBlueprintUserMessages: [BP_Rifle_GEN_VARIABLE_BP_Rifle_C_CAT_0] Cast to BP_FirstPersonCharacter FAILED
+[2023.02.07-11.44.30:984][449]LogBlueprintUserMessages: [BP_Rifle_GEN_VARIABLE_BP_Rifle_C_CAT_0] Cast to BP_FirstPersonCharacter FAILED
+[2023.02.07-11.44.30:993][450]LogBlueprintUserMessages: [BP_Rifle_GEN_VARIABLE_BP_Rifle_C_CAT_0] Cast to BP_FirstPersonCharacter FAILED
+[2023.02.07-11.44.31:002][451]LogBlueprintUserMessages: [BP_Rifle_GEN_VARIABLE_BP_Rifle_C_CAT_0] Cast to BP_FirstPersonCharacter FAILED
+[2023.02.07-11.44.31:306][483]LogBlueprintUserMessages: [BP_Rifle_GEN_VARIABLE_BP_Rifle_C_CAT_0] Cast to BP_FirstPersonCharacter FAILED
+[2023.02.07-11.44.31:316][484]LogBlueprintUserMessages: [BP_Rifle_GEN_VARIABLE_BP_Rifle_C_CAT_0] Cast to BP_FirstPersonCharacter FAILED
+[2023.02.07-11.44.31:843][539]LogBlueprintUserMessages: [BP_Rifle_GEN_VARIABLE_BP_Rifle_C_CAT_0] Cast to BP_FirstPersonCharacter FAILED
+[2023.02.07-11.44.32:079][563]LogBlueprintUserMessages: [BP_Rifle_GEN_VARIABLE_BP_Rifle_C_CAT_0] Cast to BP_FirstPersonCharacter FAILED
+[2023.02.07-11.44.32:089][564]LogBlueprintUserMessages: [BP_Rifle_GEN_VARIABLE_BP_Rifle_C_CAT_0] Cast to BP_FirstPersonCharacter FAILED
+[2023.02.07-11.44.32:099][565]LogBlueprintUserMessages: [BP_Rifle_GEN_VARIABLE_BP_Rifle_C_CAT_0] Cast to BP_FirstPersonCharacter FAILED
+[2023.02.07-11.44.32:108][566]LogBlueprintUserMessages: [BP_Rifle_GEN_VARIABLE_BP_Rifle_C_CAT_0] Cast to BP_FirstPersonCharacter FAILED
+[2023.02.07-11.44.32:119][567]LogBlueprintUserMessages: [BP_Rifle_GEN_VARIABLE_BP_Rifle_C_CAT_0] Cast to BP_FirstPersonCharacter FAILED
+[2023.02.07-11.44.32:131][568]LogBlueprintUserMessages: [BP_Rifle_GEN_VARIABLE_BP_Rifle_C_CAT_0] Cast to BP_FirstPersonCharacter FAILED
+[2023.02.07-11.44.32:141][569]LogBlueprintUserMessages: [BP_Rifle_GEN_VARIABLE_BP_Rifle_C_CAT_0] Cast to BP_FirstPersonCharacter FAILED
+[2023.02.07-11.44.32:151][570]LogBlueprintUserMessages: [BP_Rifle_GEN_VARIABLE_BP_Rifle_C_CAT_0] Cast to BP_FirstPersonCharacter FAILED
+[2023.02.07-11.44.32:161][571]LogBlueprintUserMessages: [BP_Rifle_GEN_VARIABLE_BP_Rifle_C_CAT_0] Cast to BP_FirstPersonCharacter FAILED
+[2023.02.07-11.44.32:170][572]LogBlueprintUserMessages: [BP_Rifle_GEN_VARIABLE_BP_Rifle_C_CAT_0] Cast to BP_FirstPersonCharacter FAILED
+[2023.02.07-11.44.32:232][578]LogBlueprintUserMessages: [BP_Rifle_GEN_VARIABLE_BP_Rifle_C_CAT_0] Cast to BP_FirstPersonCharacter FAILED
+[2023.02.07-11.44.32:243][579]LogBlueprintUserMessages: [BP_Rifle_GEN_VARIABLE_BP_Rifle_C_CAT_0] Cast to BP_FirstPersonCharacter FAILED
+[2023.02.07-11.44.32:253][580]LogBlueprintUserMessages: [BP_Rifle_GEN_VARIABLE_BP_Rifle_C_CAT_0] Cast to BP_FirstPersonCharacter FAILED
+[2023.02.07-11.44.32:262][581]LogBlueprintUserMessages: [BP_Rifle_GEN_VARIABLE_BP_Rifle_C_CAT_0] Cast to BP_FirstPersonCharacter FAILED
+[2023.02.07-11.44.32:275][582]LogBlueprintUserMessages: [BP_Rifle_GEN_VARIABLE_BP_Rifle_C_CAT_0] Cast to BP_FirstPersonCharacter FAILED
+[2023.02.07-11.44.32:287][583]LogBlueprintUserMessages: [BP_Rifle_GEN_VARIABLE_BP_Rifle_C_CAT_0] Cast to BP_FirstPersonCharacter FAILED
+[2023.02.07-11.44.32:297][584]LogBlueprintUserMessages: [BP_Rifle_GEN_VARIABLE_BP_Rifle_C_CAT_0] Cast to BP_FirstPersonCharacter FAILED
+[2023.02.07-11.44.32:307][585]LogBlueprintUserMessages: [BP_Rifle_GEN_VARIABLE_BP_Rifle_C_CAT_0] Cast to BP_FirstPersonCharacter FAILED
+[2023.02.07-11.44.36:481][  0]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=11.32 Y=-15.25 Z=0.00 Location: X=2666.08 Y=2106.40 Z=90.21 Normal: X=-1.00 Y=0.05 Z=0.00 PenetrationDepth:0.042 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (3 other events since notify)
+[2023.02.07-11.44.37:308][ 84]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=19.73 Y=3.55 Z=0.00 Location: X=2665.93 Y=2038.43 Z=90.21 Normal: X=-1.00 Y=0.03 Z=-0.00 PenetrationDepth:0.003 Actor:StaticMeshActor_51 Component:StaticMeshComponent0 BoneName:None (9 other events since notify)
+[2023.02.07-11.44.37:483][102]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=329.28 Y=-501.58 Z=0.00 Location: X=2666.15 Y=2106.44 Z=90.21 Normal: X=-0.99 Y=0.10 Z=0.00 PenetrationDepth:0.068 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (49 other events since notify)
+[2023.02.07-11.44.38:314][187]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=594.60 Y=80.29 Z=0.00 Location: X=2665.96 Y=2038.43 Z=90.21 Normal: X=-1.00 Y=-0.00 Z=0.00 PenetrationDepth:0.029 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (72 other events since notify)
+[2023.02.07-11.44.38:482][204]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=337.58 Y=-496.02 Z=0.00 Location: X=2666.15 Y=2106.44 Z=90.21 Normal: X=-0.99 Y=0.11 Z=0.00 PenetrationDepth:0.031 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (97 other events since notify)
+[2023.02.07-11.44.39:318][288]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=593.84 Y=85.74 Z=0.00 Location: X=2665.96 Y=2038.43 Z=90.21 Normal: X=-1.00 Y=-0.00 Z=0.00 PenetrationDepth:0.009 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (99 other events since notify)
+[2023.02.07-11.44.39:487][305]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=206.35 Y=-308.73 Z=0.00 Location: X=2666.15 Y=2106.44 Z=90.21 Normal: X=-0.99 Y=0.11 Z=0.00 PenetrationDepth:0.037 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (99 other events since notify)
+[2023.02.07-11.44.40:323][391]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=592.48 Y=94.72 Z=0.00 Location: X=2665.96 Y=2038.43 Z=90.21 Normal: X=-1.00 Y=-0.00 Z=0.00 PenetrationDepth:0.030 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (101 other events since notify)
+[2023.02.07-11.44.40:493][408]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=331.60 Y=-500.04 Z=0.00 Location: X=2666.15 Y=2106.44 Z=90.21 Normal: X=-0.99 Y=0.11 Z=0.00 PenetrationDepth:0.033 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (101 other events since notify)
+[2023.02.07-11.44.41:329][494]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=593.68 Y=86.88 Z=0.00 Location: X=2665.96 Y=2038.43 Z=90.21 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:0.030 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (101 other events since notify)
+[2023.02.07-11.44.41:494][510]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=329.06 Y=-501.72 Z=0.00 Location: X=2666.15 Y=2106.44 Z=90.21 Normal: X=-0.99 Y=0.10 Z=0.00 PenetrationDepth:0.012 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (100 other events since notify)
+[2023.02.07-11.44.42:334][597]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=596.38 Y=65.83 Z=0.00 Location: X=2665.96 Y=2038.43 Z=90.21 Normal: X=-1.00 Y=-0.00 Z=0.00 PenetrationDepth:0.029 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (100 other events since notify)
+[2023.02.07-11.44.42:496][614]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=326.05 Y=-503.68 Z=0.00 Location: X=2666.15 Y=2106.44 Z=90.21 Normal: X=-0.99 Y=0.11 Z=0.00 PenetrationDepth:0.031 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (103 other events since notify)
+[2023.02.07-11.44.43:340][700]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=597.04 Y=59.57 Z=0.00 Location: X=2665.96 Y=2038.43 Z=90.21 Normal: X=-1.00 Y=-0.00 Z=0.00 PenetrationDepth:0.030 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (101 other events since notify)
+[2023.02.07-11.44.43:498][716]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=323.26 Y=-505.47 Z=0.00 Location: X=2666.15 Y=2106.44 Z=90.21 Normal: X=-0.99 Y=0.11 Z=0.00 PenetrationDepth:0.035 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (100 other events since notify)
+[2023.02.07-11.44.44:342][803]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=598.23 Y=46.03 Z=0.00 Location: X=2665.96 Y=2038.43 Z=90.21 Normal: X=-1.00 Y=-0.00 Z=0.00 PenetrationDepth:0.031 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (102 other events since notify)
+[2023.02.07-11.44.44:498][819]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=321.33 Y=-506.70 Z=0.00 Location: X=2666.15 Y=2106.44 Z=90.21 Normal: X=-0.99 Y=0.11 Z=0.00 PenetrationDepth:0.035 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (102 other events since notify)
+[2023.02.07-11.44.45:350][906]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=599.59 Y=22.28 Z=0.00 Location: X=2665.96 Y=2038.43 Z=90.21 Normal: X=-1.00 Y=-0.00 Z=0.00 PenetrationDepth:0.021 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (101 other events since notify)
+[2023.02.07-11.44.45:503][922]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=313.26 Y=-511.73 Z=0.00 Location: X=2666.15 Y=2106.44 Z=90.21 Normal: X=-0.99 Y=0.11 Z=0.00 PenetrationDepth:0.032 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (101 other events since notify)
+[2023.02.07-11.44.46:356][ 10]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=599.78 Y=16.24 Z=0.00 Location: X=2665.96 Y=2038.44 Z=90.21 Normal: X=-1.00 Y=-0.00 Z=0.00 PenetrationDepth:0.028 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (101 other events since notify)
+[2023.02.07-11.44.46:511][ 26]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=319.66 Y=-507.76 Z=0.00 Location: X=2666.15 Y=2106.44 Z=90.21 Normal: X=-0.99 Y=0.11 Z=0.00 PenetrationDepth:0.030 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (102 other events since notify)
+[2023.02.07-11.44.47:362][115]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=599.09 Y=33.06 Z=0.00 Location: X=2665.96 Y=2038.44 Z=90.21 Normal: X=-1.00 Y=-0.00 Z=0.00 PenetrationDepth:0.030 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (103 other events since notify)
+[2023.02.07-11.44.47:516][131]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=316.35 Y=-509.82 Z=0.00 Location: X=2666.15 Y=2106.44 Z=90.21 Normal: X=-0.99 Y=0.11 Z=0.00 PenetrationDepth:0.025 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (104 other events since notify)
+[2023.02.07-11.44.48:367][219]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=250.32 Y=9.87 Z=0.00 Location: X=2665.96 Y=2038.44 Z=90.21 Normal: X=-1.00 Y=-0.00 Z=0.00 PenetrationDepth:0.026 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (99 other events since notify)
+[2023.02.07-11.44.48:520][234]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=44.24 Y=-70.46 Z=0.00 Location: X=2666.15 Y=2106.44 Z=90.21 Normal: X=-0.99 Y=0.11 Z=0.00 PenetrationDepth:0.032 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (99 other events since notify)
+[2023.02.07-11.44.49:372][322]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=599.82 Y=14.73 Z=0.00 Location: X=2665.96 Y=2038.44 Z=90.21 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:0.034 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (99 other events since notify)
+[2023.02.07-11.44.49:525][337]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=315.94 Y=-510.08 Z=0.00 Location: X=2666.15 Y=2106.44 Z=90.21 Normal: X=-0.99 Y=0.11 Z=0.00 PenetrationDepth:0.032 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (102 other events since notify)
+[2023.02.07-11.44.50:381][426]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=599.85 Y=13.20 Z=0.00 Location: X=2665.96 Y=2038.44 Z=90.21 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:0.035 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (102 other events since notify)
+[2023.02.07-11.44.50:527][441]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=52.04 Y=-85.33 Z=0.00 Location: X=2666.15 Y=2106.44 Z=90.21 Normal: X=-0.99 Y=0.11 Z=0.00 PenetrationDepth:0.040 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (99 other events since notify)
+[2023.02.07-11.44.51:388][529]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=599.75 Y=17.23 Z=0.00 Location: X=2665.96 Y=2038.44 Z=90.21 Normal: X=-1.00 Y=-0.00 Z=0.00 PenetrationDepth:0.032 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (102 other events since notify)
+[2023.02.07-11.44.51:568][544]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=219.78 Y=-358.35 Z=0.00 Location: X=2666.15 Y=2106.44 Z=90.21 Normal: X=-0.99 Y=0.10 Z=0.00 PenetrationDepth:0.016 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (97 other events since notify)
+[2023.02.07-11.44.52:394][624]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=599.75 Y=17.44 Z=0.00 Location: X=2666.40 Y=2038.46 Z=90.21 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:0.262 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (92 other events since notify)
+[2023.02.07-11.44.52:748][660]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=21.18 Y=-19.81 Z=0.00 Location: X=2666.67 Y=2106.48 Z=90.21 Normal: X=-0.99 Y=0.12 Z=0.00 PenetrationDepth:0.022 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (22 other events since notify)
+[2023.02.07-11.44.53:400][728]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=599.74 Y=17.57 Z=0.00 Location: X=2666.40 Y=2038.46 Z=90.21 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:0.255 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (103 other events since notify)
+[2023.02.07-11.44.53:757][763]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=324.66 Y=-504.57 Z=0.00 Location: X=2666.67 Y=2106.48 Z=90.21 Normal: X=-0.99 Y=0.12 Z=0.00 PenetrationDepth:0.030 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (98 other events since notify)
+[2023.02.07-11.44.54:408][830]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=599.87 Y=12.61 Z=0.00 Location: X=2666.40 Y=2038.46 Z=90.21 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:0.256 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (101 other events since notify)
+[2023.02.07-11.44.54:758][865]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=328.77 Y=-501.91 Z=0.00 Location: X=2666.67 Y=2106.48 Z=90.21 Normal: X=-0.99 Y=0.11 Z=0.00 PenetrationDepth:0.014 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (98 other events since notify)
+[2023.02.07-11.44.55:413][933]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=599.85 Y=13.44 Z=0.00 Location: X=2666.40 Y=2038.46 Z=90.21 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:0.227 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (102 other events since notify)
+[2023.02.07-11.44.55:766][969]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=323.27 Y=-505.47 Z=0.00 Location: X=2666.67 Y=2106.48 Z=90.21 Normal: X=-0.99 Y=0.12 Z=0.00 PenetrationDepth:0.057 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (98 other events since notify)
+[2023.02.07-11.44.56:417][ 37]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=599.88 Y=11.82 Z=0.00 Location: X=2666.40 Y=2038.46 Z=90.21 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:0.256 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (103 other events since notify)
+[2023.02.07-11.44.56:771][ 74]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=328.65 Y=-501.98 Z=0.00 Location: X=2666.67 Y=2106.48 Z=90.21 Normal: X=-0.99 Y=0.12 Z=0.00 PenetrationDepth:0.046 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (102 other events since notify)
+[2023.02.07-11.44.57:419][141]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=599.39 Y=27.12 Z=0.00 Location: X=2666.40 Y=2038.46 Z=90.21 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:0.280 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (103 other events since notify)
+[2023.02.07-11.44.57:774][178]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=323.51 Y=-505.31 Z=0.00 Location: X=2666.67 Y=2106.48 Z=90.21 Normal: X=-0.99 Y=0.12 Z=0.00 PenetrationDepth:0.024 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (103 other events since notify)
+[2023.02.07-11.44.58:420][246]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=599.81 Y=15.10 Z=0.00 Location: X=2666.40 Y=2038.46 Z=90.21 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:0.254 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (104 other events since notify)
+[2023.02.07-11.44.58:780][282]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=324.44 Y=-504.71 Z=0.00 Location: X=2666.67 Y=2106.48 Z=90.21 Normal: X=-0.99 Y=0.12 Z=0.00 PenetrationDepth:0.099 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (103 other events since notify)
+[2023.02.07-11.44.59:423][349]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=599.90 Y=10.69 Z=0.00 Location: X=2666.40 Y=2038.46 Z=90.21 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:0.315 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (102 other events since notify)
+[2023.02.07-11.44.59:783][385]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=322.47 Y=-505.98 Z=0.00 Location: X=2666.67 Y=2106.48 Z=90.21 Normal: X=-0.99 Y=0.12 Z=0.00 PenetrationDepth:0.116 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (102 other events since notify)
+[2023.02.07-11.45.00:432][451]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=599.90 Y=10.79 Z=0.00 Location: X=2666.40 Y=2038.46 Z=90.21 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:0.321 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (101 other events since notify)
+[2023.02.07-11.45.00:785][487]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=323.35 Y=-505.41 Z=0.00 Location: X=2666.67 Y=2106.48 Z=90.21 Normal: X=-0.99 Y=0.12 Z=0.00 PenetrationDepth:0.078 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (101 other events since notify)
+[2023.02.07-11.45.01:437][555]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=599.88 Y=12.07 Z=0.00 Location: X=2666.40 Y=2038.46 Z=90.21 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:0.318 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (103 other events since notify)
+[2023.02.07-11.45.01:792][592]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=324.32 Y=-504.80 Z=0.00 Location: X=2666.67 Y=2106.48 Z=90.21 Normal: X=-0.99 Y=0.12 Z=0.00 PenetrationDepth:0.116 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (104 other events since notify)
+[2023.02.07-11.45.02:443][660]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=599.90 Y=10.84 Z=0.00 Location: X=2666.40 Y=2038.46 Z=90.21 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:0.319 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (104 other events since notify)
+[2023.02.07-11.45.02:795][695]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=323.38 Y=-505.40 Z=0.00 Location: X=2666.67 Y=2106.48 Z=90.21 Normal: X=-0.99 Y=0.12 Z=0.00 PenetrationDepth:0.086 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (102 other events since notify)
+[2023.02.07-11.45.03:452][763]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=599.89 Y=11.50 Z=0.00 Location: X=2666.40 Y=2038.46 Z=90.21 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:0.320 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (102 other events since notify)
+[2023.02.07-11.45.03:802][798]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=322.80 Y=-505.77 Z=0.00 Location: X=2666.67 Y=2106.48 Z=90.21 Normal: X=-0.99 Y=0.12 Z=0.00 PenetrationDepth:0.119 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (102 other events since notify)
+[2023.02.07-11.45.04:456][866]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=599.87 Y=12.47 Z=0.00 Location: X=2666.40 Y=2038.46 Z=90.21 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:0.328 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (102 other events since notify)
+[2023.02.07-11.45.04:804][901]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=321.65 Y=-506.50 Z=0.00 Location: X=2666.67 Y=2106.48 Z=90.21 Normal: X=-0.99 Y=0.12 Z=0.00 PenetrationDepth:0.111 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (102 other events since notify)
+[2023.02.07-11.45.05:459][969]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=599.90 Y=10.81 Z=0.00 Location: X=2666.40 Y=2038.46 Z=90.21 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:0.327 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (102 other events since notify)
+[2023.02.07-11.45.05:810][  6]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=322.93 Y=-505.68 Z=0.00 Location: X=2666.67 Y=2106.48 Z=90.21 Normal: X=-0.99 Y=0.12 Z=0.00 PenetrationDepth:0.140 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (104 other events since notify)
+[2023.02.07-11.45.06:463][ 73]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=599.90 Y=10.75 Z=0.00 Location: X=2666.40 Y=2038.46 Z=90.21 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:0.327 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (103 other events since notify)
+[2023.02.07-11.45.06:813][109]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=322.88 Y=-505.72 Z=0.00 Location: X=2666.67 Y=2106.48 Z=90.21 Normal: X=-0.99 Y=0.12 Z=0.00 PenetrationDepth:0.139 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (102 other events since notify)
+[2023.02.07-11.45.07:465][177]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=599.89 Y=11.24 Z=0.00 Location: X=2666.40 Y=2038.46 Z=90.21 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:0.329 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (103 other events since notify)
+[2023.02.07-11.45.07:814][212]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=322.48 Y=-505.97 Z=0.00 Location: X=2666.67 Y=2106.48 Z=90.21 Normal: X=-0.99 Y=0.12 Z=0.00 PenetrationDepth:0.108 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (102 other events since notify)
+[2023.02.07-11.45.08:469][280]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=599.90 Y=10.77 Z=0.00 Location: X=2666.40 Y=2038.46 Z=90.21 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:0.326 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (102 other events since notify)
+[2023.02.07-11.45.08:824][315]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=322.43 Y=-506.00 Z=0.00 Location: X=2666.67 Y=2106.48 Z=90.21 Normal: X=-0.99 Y=0.12 Z=0.00 PenetrationDepth:0.109 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (102 other events since notify)
+[2023.02.07-11.45.09:473][379]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=599.89 Y=11.44 Z=0.00 Location: X=2666.40 Y=2038.46 Z=90.21 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:0.329 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (98 other events since notify)
+[2023.02.07-11.45.09:825][414]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=324.73 Y=-504.53 Z=0.00 Location: X=2666.67 Y=2106.48 Z=90.21 Normal: X=-0.99 Y=0.12 Z=0.00 PenetrationDepth:0.130 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (98 other events since notify)
+[2023.02.07-11.45.10:475][481]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=599.90 Y=10.92 Z=0.00 Location: X=2666.40 Y=2038.46 Z=90.21 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:0.325 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (101 other events since notify)
+[2023.02.07-11.45.10:832][517]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=322.91 Y=-505.69 Z=0.00 Location: X=2666.67 Y=2106.48 Z=90.21 Normal: X=-0.99 Y=0.12 Z=0.00 PenetrationDepth:0.113 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (102 other events since notify)
+[2023.02.07-11.45.11:475][583]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=599.89 Y=11.49 Z=0.00 Location: X=2666.40 Y=2038.46 Z=90.21 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:0.328 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (101 other events since notify)
+[2023.02.07-11.45.11:834][621]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=322.64 Y=-505.87 Z=0.00 Location: X=2666.67 Y=2106.48 Z=90.21 Normal: X=-0.99 Y=0.12 Z=0.00 PenetrationDepth:0.138 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (103 other events since notify)
+[2023.02.07-11.45.12:484][688]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=599.89 Y=11.44 Z=0.00 Location: X=2666.40 Y=2038.46 Z=90.21 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:0.324 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (104 other events since notify)
+[2023.02.07-11.45.12:839][725]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=322.62 Y=-505.88 Z=0.00 Location: X=2666.67 Y=2106.48 Z=90.21 Normal: X=-0.99 Y=0.12 Z=0.00 PenetrationDepth:0.139 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (103 other events since notify)
+[2023.02.07-11.45.13:492][793]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=599.90 Y=10.72 Z=0.00 Location: X=2666.40 Y=2038.46 Z=90.21 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:0.329 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (104 other events since notify)
+[2023.02.07-11.45.13:843][829]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=322.63 Y=-505.88 Z=0.00 Location: X=2666.67 Y=2106.48 Z=90.21 Normal: X=-0.99 Y=0.12 Z=0.00 PenetrationDepth:0.141 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (103 other events since notify)
+[2023.02.07-11.45.14:497][896]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=599.89 Y=11.24 Z=0.00 Location: X=2666.40 Y=2038.46 Z=90.21 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:0.319 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (102 other events since notify)
+[2023.02.07-11.45.14:844][931]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=323.12 Y=-505.56 Z=0.00 Location: X=2666.67 Y=2106.48 Z=90.21 Normal: X=-0.99 Y=0.12 Z=0.00 PenetrationDepth:0.136 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (101 other events since notify)
+[2023.02.07-11.45.15:504][999]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=599.90 Y=10.94 Z=0.00 Location: X=2666.40 Y=2038.46 Z=90.21 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:0.328 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (102 other events since notify)
+[2023.02.07-11.45.15:845][ 34]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=322.92 Y=-505.69 Z=0.00 Location: X=2666.67 Y=2106.48 Z=90.21 Normal: X=-0.99 Y=0.12 Z=0.00 PenetrationDepth:0.138 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (102 other events since notify)
+[2023.02.07-11.45.16:509][104]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=599.89 Y=11.37 Z=0.00 Location: X=2666.40 Y=2038.46 Z=90.21 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:0.329 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (104 other events since notify)
+[2023.02.07-11.45.16:846][139]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=322.25 Y=-506.12 Z=0.00 Location: X=2666.67 Y=2106.48 Z=90.21 Normal: X=-0.99 Y=0.12 Z=0.00 PenetrationDepth:0.140 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (104 other events since notify)
+[2023.02.07-11.45.17:510][208]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=599.89 Y=11.48 Z=0.00 Location: X=2666.40 Y=2038.46 Z=90.21 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:0.322 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (103 other events since notify)
+[2023.02.07-11.45.17:855][244]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=325.56 Y=-503.99 Z=0.00 Location: X=2666.67 Y=2106.48 Z=90.21 Normal: X=-0.99 Y=0.12 Z=0.00 PenetrationDepth:0.135 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (104 other events since notify)
+[2023.02.07-11.45.18:513][312]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=599.90 Y=10.76 Z=0.00 Location: X=2666.40 Y=2038.46 Z=90.21 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:0.329 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (103 other events since notify)
+[2023.02.07-11.45.18:858][347]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=322.52 Y=-505.94 Z=0.00 Location: X=2666.67 Y=2106.48 Z=90.21 Normal: X=-0.99 Y=0.12 Z=0.00 PenetrationDepth:0.137 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (102 other events since notify)
+[2023.02.07-11.45.19:517][416]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=599.90 Y=10.81 Z=0.00 Location: X=2666.40 Y=2038.46 Z=90.21 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:0.329 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (103 other events since notify)
+[2023.02.07-11.45.19:862][451]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=322.67 Y=-505.85 Z=0.00 Location: X=2666.67 Y=2106.48 Z=90.21 Normal: X=-0.99 Y=0.12 Z=0.00 PenetrationDepth:0.105 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (103 other events since notify)
+[2023.02.07-11.45.20:521][519]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=599.90 Y=10.95 Z=0.00 Location: X=2666.40 Y=2038.46 Z=90.21 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:0.327 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (102 other events since notify)
+[2023.02.07-11.45.20:868][554]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=322.66 Y=-505.86 Z=0.00 Location: X=2666.67 Y=2106.48 Z=90.21 Normal: X=-0.99 Y=0.12 Z=0.00 PenetrationDepth:0.139 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (102 other events since notify)
+[2023.02.07-11.45.21:530][623]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=599.89 Y=11.58 Z=0.00 Location: X=2666.40 Y=2038.46 Z=90.21 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:0.330 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (103 other events since notify)
+[2023.02.07-11.45.21:877][659]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=322.82 Y=-505.75 Z=0.00 Location: X=2666.67 Y=2106.48 Z=90.21 Normal: X=-0.99 Y=0.12 Z=0.00 PenetrationDepth:0.139 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (104 other events since notify)
+[2023.02.07-11.45.22:535][727]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=599.91 Y=10.60 Z=0.00 Location: X=2666.40 Y=2038.46 Z=90.21 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:0.329 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (103 other events since notify)
+[2023.02.07-11.45.22:881][763]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=322.97 Y=-505.66 Z=0.00 Location: X=2666.67 Y=2106.48 Z=90.21 Normal: X=-0.99 Y=0.12 Z=0.00 PenetrationDepth:0.105 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (103 other events since notify)
+[2023.02.07-11.45.23:537][832]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=599.89 Y=11.38 Z=0.00 Location: X=2666.40 Y=2038.46 Z=90.21 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:0.330 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (104 other events since notify)
+[2023.02.07-11.45.23:886][868]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=322.21 Y=-506.14 Z=0.00 Location: X=2666.67 Y=2106.48 Z=90.21 Normal: X=-0.99 Y=0.12 Z=0.00 PenetrationDepth:0.108 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (104 other events since notify)
+[2023.02.07-11.45.24:544][936]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=599.90 Y=11.18 Z=0.00 Location: X=2666.40 Y=2038.46 Z=90.21 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:0.328 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (103 other events since notify)
+[2023.02.07-11.45.24:893][972]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=323.28 Y=-505.46 Z=0.00 Location: X=2666.67 Y=2106.48 Z=90.21 Normal: X=-0.99 Y=0.12 Z=0.00 PenetrationDepth:0.135 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (103 other events since notify)
+[2023.02.07-11.45.25:547][ 39]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=599.89 Y=11.30 Z=0.00 Location: X=2666.40 Y=2038.46 Z=90.21 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:0.329 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (102 other events since notify)
+[2023.02.07-11.45.25:902][ 75]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=325.62 Y=-503.96 Z=0.00 Location: X=2666.67 Y=2106.48 Z=90.21 Normal: X=-0.99 Y=0.12 Z=0.00 PenetrationDepth:0.125 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (102 other events since notify)
+[2023.02.07-11.45.26:549][143]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=599.89 Y=11.30 Z=0.00 Location: X=2666.40 Y=2038.46 Z=90.21 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:0.326 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (103 other events since notify)
+[2023.02.07-11.45.26:908][181]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=322.99 Y=-505.64 Z=0.00 Location: X=2666.67 Y=2106.48 Z=90.21 Normal: X=-0.99 Y=0.12 Z=0.00 PenetrationDepth:0.104 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (105 other events since notify)
+[2023.02.07-11.45.27:557][249]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=599.89 Y=11.67 Z=0.00 Location: X=2666.40 Y=2038.46 Z=90.21 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:0.331 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (105 other events since notify)
+[2023.02.07-11.45.27:916][285]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=323.86 Y=-505.09 Z=0.00 Location: X=2666.67 Y=2106.48 Z=90.21 Normal: X=-0.99 Y=0.12 Z=0.00 PenetrationDepth:0.106 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (103 other events since notify)
+[2023.02.07-11.45.28:565][352]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=599.90 Y=10.95 Z=0.00 Location: X=2666.40 Y=2038.46 Z=90.21 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:0.328 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (102 other events since notify)
+[2023.02.07-11.45.28:919][388]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=322.07 Y=-506.23 Z=0.00 Location: X=2666.67 Y=2106.48 Z=90.21 Normal: X=-0.99 Y=0.12 Z=0.00 PenetrationDepth:0.138 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (102 other events since notify)
+[2023.02.07-11.45.29:572][455]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=599.89 Y=11.47 Z=0.00 Location: X=2666.40 Y=2038.46 Z=90.21 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:0.323 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (102 other events since notify)
+[2023.02.07-11.45.29:926][492]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=322.86 Y=-505.73 Z=0.00 Location: X=2666.67 Y=2106.48 Z=90.21 Normal: X=-0.99 Y=0.12 Z=0.00 PenetrationDepth:0.114 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (103 other events since notify)
+[2023.02.07-11.45.30:573][559]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=599.89 Y=11.50 Z=0.00 Location: X=2666.40 Y=2038.46 Z=90.21 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:0.329 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (103 other events since notify)
+[2023.02.07-11.45.30:926][595]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=322.87 Y=-505.72 Z=0.00 Location: X=2666.67 Y=2106.48 Z=90.21 Normal: X=-0.99 Y=0.12 Z=0.00 PenetrationDepth:0.138 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (102 other events since notify)
+[2023.02.07-11.45.31:578][663]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=599.90 Y=10.88 Z=0.00 Location: X=2666.40 Y=2038.46 Z=90.21 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:0.326 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (103 other events since notify)
+[2023.02.07-11.45.31:935][700]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=323.09 Y=-505.58 Z=0.00 Location: X=2666.67 Y=2106.48 Z=90.21 Normal: X=-0.99 Y=0.12 Z=0.00 PenetrationDepth:0.136 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (104 other events since notify)
+[2023.02.07-11.45.32:581][766]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=599.89 Y=11.33 Z=0.00 Location: X=2666.40 Y=2038.46 Z=90.21 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:0.329 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (102 other events since notify)
+[2023.02.07-11.45.32:941][803]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=322.87 Y=-505.72 Z=0.00 Location: X=2666.67 Y=2106.48 Z=90.21 Normal: X=-0.99 Y=0.12 Z=0.00 PenetrationDepth:0.120 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (102 other events since notify)
+[2023.02.07-11.45.33:588][870]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=599.89 Y=11.45 Z=0.00 Location: X=2666.40 Y=2038.46 Z=90.21 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:0.328 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (103 other events since notify)
+[2023.02.07-11.45.33:946][906]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=322.38 Y=-506.04 Z=0.00 Location: X=2666.67 Y=2106.48 Z=90.21 Normal: X=-0.99 Y=0.12 Z=0.00 PenetrationDepth:0.117 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (102 other events since notify)
+[2023.02.07-11.45.34:591][969]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=599.90 Y=10.90 Z=0.00 Location: X=2666.40 Y=2038.46 Z=90.21 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:0.326 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (98 other events since notify)
+[2023.02.07-11.45.34:947][  5]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=324.69 Y=-504.55 Z=0.00 Location: X=2666.67 Y=2106.48 Z=90.21 Normal: X=-0.99 Y=0.12 Z=0.00 PenetrationDepth:0.128 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (98 other events since notify)
+[2023.02.07-11.45.35:594][ 73]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=599.90 Y=10.83 Z=0.00 Location: X=2666.40 Y=2038.46 Z=90.21 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:0.321 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (103 other events since notify)
+[2023.02.07-11.45.35:952][110]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=322.26 Y=-506.11 Z=0.00 Location: X=2666.67 Y=2106.48 Z=90.21 Normal: X=-0.99 Y=0.12 Z=0.00 PenetrationDepth:0.111 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (104 other events since notify)
+[2023.02.07-11.45.36:602][177]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=599.89 Y=11.24 Z=0.00 Location: X=2666.40 Y=2038.46 Z=90.21 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:0.329 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (103 other events since notify)
+[2023.02.07-11.45.36:952][213]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=323.06 Y=-505.60 Z=0.00 Location: X=2666.67 Y=2106.48 Z=90.21 Normal: X=-0.99 Y=0.12 Z=0.00 PenetrationDepth:0.135 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (102 other events since notify)
+[2023.02.07-11.45.37:607][281]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=599.89 Y=11.65 Z=0.00 Location: X=2666.40 Y=2038.46 Z=90.21 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:0.327 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (103 other events since notify)
+[2023.02.07-11.45.37:957][318]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=322.30 Y=-506.08 Z=0.00 Location: X=2666.67 Y=2106.48 Z=90.21 Normal: X=-0.99 Y=0.12 Z=0.00 PenetrationDepth:0.105 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (104 other events since notify)
+[2023.02.07-11.45.38:610][386]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=599.89 Y=11.69 Z=0.00 Location: X=2666.40 Y=2038.46 Z=90.21 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:0.345 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (104 other events since notify)
+[2023.02.07-11.45.38:964][422]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=324.08 Y=-504.95 Z=0.00 Location: X=2666.67 Y=2106.48 Z=90.21 Normal: X=-0.99 Y=0.12 Z=0.00 PenetrationDepth:0.118 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (103 other events since notify)
+[2023.02.07-11.45.39:617][489]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=599.90 Y=10.88 Z=0.00 Location: X=2666.40 Y=2038.46 Z=90.21 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:0.311 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (102 other events since notify)
+[2023.02.07-11.45.39:970][525]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=323.08 Y=-505.59 Z=0.00 Location: X=2666.67 Y=2106.48 Z=90.21 Normal: X=-0.99 Y=0.12 Z=0.00 PenetrationDepth:0.114 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (102 other events since notify)
+[2023.02.07-11.45.40:618][593]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=599.90 Y=10.78 Z=0.00 Location: X=2666.40 Y=2038.46 Z=90.21 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:0.329 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (103 other events since notify)
+[2023.02.07-11.45.40:980][631]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=322.29 Y=-506.09 Z=0.00 Location: X=2666.67 Y=2106.48 Z=90.21 Normal: X=-0.99 Y=0.13 Z=0.00 PenetrationDepth:0.147 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (105 other events since notify)
+[2023.02.07-11.45.41:621][698]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=599.91 Y=10.62 Z=0.00 Location: X=2666.40 Y=2038.46 Z=90.21 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:0.326 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (104 other events since notify)
+[2023.02.07-11.45.41:981][734]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=323.20 Y=-505.51 Z=0.00 Location: X=2666.67 Y=2106.48 Z=90.21 Normal: X=-0.99 Y=0.13 Z=0.00 PenetrationDepth:0.144 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (102 other events since notify)
+[2023.02.07-11.45.42:625][801]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=599.89 Y=11.48 Z=0.00 Location: X=2666.40 Y=2038.46 Z=90.21 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:0.324 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (102 other events since notify)
+[2023.02.07-11.45.42:981][837]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=322.61 Y=-505.89 Z=0.00 Location: X=2666.67 Y=2106.48 Z=90.21 Normal: X=-0.99 Y=0.13 Z=0.00 PenetrationDepth:0.146 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (102 other events since notify)
+[2023.02.07-11.45.43:626][904]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=599.89 Y=11.63 Z=0.00 Location: X=2666.40 Y=2038.46 Z=90.21 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:0.330 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (102 other events since notify)
+[2023.02.07-11.45.43:982][941]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=322.45 Y=-505.99 Z=0.00 Location: X=2666.67 Y=2106.48 Z=90.21 Normal: X=-0.99 Y=0.13 Z=0.00 PenetrationDepth:0.141 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (103 other events since notify)
+[2023.02.07-11.45.44:629][  7]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=599.89 Y=11.59 Z=0.00 Location: X=2666.40 Y=2038.46 Z=90.21 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:0.347 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (102 other events since notify)
+[2023.02.07-11.45.44:987][ 43]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=324.12 Y=-504.92 Z=0.00 Location: X=2666.67 Y=2106.48 Z=90.21 Normal: X=-0.99 Y=0.12 Z=0.00 PenetrationDepth:0.082 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (101 other events since notify)
+[2023.02.07-11.45.45:638][110]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=599.88 Y=11.85 Z=0.00 Location: X=2666.40 Y=2038.46 Z=90.21 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:0.319 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (102 other events since notify)
+[2023.02.07-11.45.45:992][146]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=322.73 Y=-505.81 Z=0.00 Location: X=2666.67 Y=2106.48 Z=90.21 Normal: X=-0.99 Y=0.12 Z=0.00 PenetrationDepth:0.121 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (102 other events since notify)
+[2023.02.07-11.45.46:645][214]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=599.89 Y=11.74 Z=0.00 Location: X=2666.40 Y=2038.46 Z=90.21 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:0.310 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (103 other events since notify)
+[2023.02.07-11.45.46:999][251]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=323.67 Y=-505.21 Z=0.00 Location: X=2666.67 Y=2106.48 Z=90.21 Normal: X=-0.99 Y=0.12 Z=0.00 PenetrationDepth:0.120 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (104 other events since notify)
+[2023.02.07-11.45.47:645][317]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=599.89 Y=11.67 Z=0.00 Location: X=2666.40 Y=2038.46 Z=90.21 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:0.320 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (102 other events since notify)
+[2023.02.07-11.45.48:002][354]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=323.34 Y=-505.42 Z=0.00 Location: X=2666.67 Y=2106.48 Z=90.21 Normal: X=-0.99 Y=0.12 Z=0.00 PenetrationDepth:0.124 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (102 other events since notify)
+[2023.02.07-11.45.48:651][421]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=599.89 Y=11.35 Z=0.00 Location: X=2666.40 Y=2038.46 Z=90.21 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:0.316 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (103 other events since notify)
+[2023.02.07-11.45.49:003][457]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=322.89 Y=-505.71 Z=0.00 Location: X=2666.67 Y=2106.48 Z=90.21 Normal: X=-0.99 Y=0.12 Z=0.00 PenetrationDepth:0.098 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (102 other events since notify)
+[2023.02.07-11.45.49:654][524]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=599.90 Y=10.90 Z=0.00 Location: X=2666.40 Y=2038.46 Z=90.21 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:0.317 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (102 other events since notify)
+[2023.02.07-11.45.50:009][561]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=322.88 Y=-505.72 Z=0.00 Location: X=2666.67 Y=2106.48 Z=90.21 Normal: X=-0.99 Y=0.12 Z=0.00 PenetrationDepth:0.125 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (103 other events since notify)
+[2023.02.07-11.45.50:656][628]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=599.88 Y=11.85 Z=0.00 Location: X=2666.40 Y=2038.46 Z=90.21 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:0.320 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (103 other events since notify)
+[2023.02.07-11.45.51:016][665]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=324.78 Y=-504.50 Z=0.00 Location: X=2666.67 Y=2106.48 Z=90.21 Normal: X=-0.99 Y=0.12 Z=0.00 PenetrationDepth:0.097 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (103 other events since notify)
+[2023.02.07-11.45.51:665][732]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=599.89 Y=11.29 Z=0.00 Location: X=2666.40 Y=2038.46 Z=90.21 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:0.359 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (103 other events since notify)
+[2023.02.07-11.45.52:019][769]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=323.62 Y=-505.24 Z=0.00 Location: X=2666.67 Y=2106.48 Z=90.21 Normal: X=-0.99 Y=0.12 Z=0.00 PenetrationDepth:0.115 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (103 other events since notify)
+[2023.02.07-11.45.52:706][832]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=599.91 Y=10.27 Z=0.00 Location: X=2666.40 Y=2038.46 Z=90.21 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:0.344 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (99 other events since notify)
+[2023.02.07-11.45.53:028][861]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=329.02 Y=-501.74 Z=0.00 Location: X=2666.67 Y=2106.48 Z=90.21 Normal: X=-0.99 Y=0.13 Z=0.00 PenetrationDepth:0.150 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (91 other events since notify)
+[2023.02.07-11.45.53:707][927]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=598.96 Y=35.25 Z=0.00 Location: X=2666.40 Y=2038.46 Z=90.21 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:0.358 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (94 other events since notify)
+[2023.02.07-11.45.54:031][960]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=328.20 Y=-502.28 Z=0.00 Location: X=2666.67 Y=2106.48 Z=90.21 Normal: X=-0.99 Y=0.13 Z=0.00 PenetrationDepth:0.155 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (98 other events since notify)
+[2023.02.07-11.45.54:714][ 30]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=599.18 Y=31.29 Z=0.00 Location: X=2666.40 Y=2038.46 Z=90.21 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:0.377 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (102 other events since notify)
+[2023.02.07-11.45.55:034][ 63]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=324.44 Y=-504.71 Z=0.00 Location: X=2666.67 Y=2106.48 Z=90.21 Normal: X=-0.99 Y=0.13 Z=0.00 PenetrationDepth:0.153 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (102 other events since notify)
+[2023.02.07-11.45.55:718][132]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=599.57 Y=22.78 Z=0.00 Location: X=2666.40 Y=2038.46 Z=90.21 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:0.367 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (101 other events since notify)
+[2023.02.07-11.45.56:036][164]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=323.43 Y=-505.36 Z=0.00 Location: X=2666.67 Y=2106.48 Z=90.21 Normal: X=-0.99 Y=0.13 Z=0.00 PenetrationDepth:0.144 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (100 other events since notify)
+[2023.02.07-11.45.56:726][235]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=599.61 Y=21.62 Z=0.00 Location: X=2666.40 Y=2038.46 Z=90.21 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:0.368 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (102 other events since notify)
+[2023.02.07-11.45.57:045][267]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=133.13 Y=-44.67 Z=0.00 Location: X=2667.41 Y=2106.47 Z=90.21 Normal: X=-1.00 Y=0.06 Z=0.00 PenetrationDepth:0.122 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (92 other events since notify)
+[2023.02.07-11.45.57:733][335]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=582.42 Y=144.18 Z=0.00 Location: X=2666.35 Y=2038.46 Z=90.21 Normal: X=-1.00 Y=0.01 Z=0.00 PenetrationDepth:0.154 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (98 other events since notify)
+[2023.02.07-11.45.58:047][367]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=589.25 Y=-113.06 Z=0.00 Location: X=2667.80 Y=2106.45 Z=90.21 Normal: X=-0.99 Y=0.10 Z=-0.00 PenetrationDepth:0.514 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (86 other events since notify)
+[2023.02.07-11.45.58:735][436]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=590.58 Y=105.92 Z=0.00 Location: X=2666.35 Y=2038.46 Z=90.21 Normal: X=-1.00 Y=0.01 Z=0.00 PenetrationDepth:0.006 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (100 other events since notify)
+[2023.02.07-11.45.59:056][469]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=584.67 Y=-134.76 Z=0.00 Location: X=2667.80 Y=2106.45 Z=90.21 Normal: X=-0.99 Y=0.12 Z=0.00 PenetrationDepth:0.824 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (101 other events since notify)
+[2023.02.07-11.45.59:740][539]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=19.07 Y=0.95 Z=0.00 Location: X=2666.35 Y=2038.46 Z=90.21 Normal: X=-1.00 Y=0.00 Z=-0.00 PenetrationDepth:0.004 Actor:StaticMeshActor_51 Component:StaticMeshComponent0 BoneName:None (92 other events since notify)
+[2023.02.07-11.46.00:064][570]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=560.92 Y=-212.99 Z=0.00 Location: X=2667.80 Y=2106.45 Z=90.21 Normal: X=-0.99 Y=0.16 Z=0.00 PenetrationDepth:0.879 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (100 other events since notify)
+[2023.02.07-11.46.00:864][648]LogCharacterMovement: Zombie_C_1 is stuck and failed to move! Velocity: X=64.34 Y=-2.14 Z=0.00 Location: X=2666.33 Y=2038.38 Z=90.21 Normal: X=-1.00 Y=-0.00 Z=0.00 PenetrationDepth:0.005 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (89 other events since notify)
+[2023.02.07-11.46.01:066][668]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=509.64 Y=-307.66 Z=0.00 Location: X=2667.73 Y=2106.47 Z=90.21 Normal: X=-0.99 Y=0.13 Z=0.00 PenetrationDepth:0.684 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (97 other events since notify)
+[2023.02.07-11.46.06:026][175]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=38.35 Y=22.15 Z=0.00 Location: X=2666.05 Y=2059.39 Z=90.21 Normal: X=-1.00 Y=-0.00 Z=0.00 PenetrationDepth:0.075 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (73 other events since notify)
+[2023.02.07-11.46.07:028][277]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=116.25 Y=-30.89 Z=0.00 Location: X=2665.94 Y=2088.86 Z=90.21 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:0.051 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (35 other events since notify)
+[2023.02.07-11.46.08:037][378]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=431.72 Y=-77.19 Z=0.00 Location: X=2665.94 Y=2088.84 Z=90.21 Normal: X=-1.00 Y=0.02 Z=0.00 PenetrationDepth:0.088 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (80 other events since notify)
+[2023.02.07-11.46.09:040][480]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=588.33 Y=-117.75 Z=0.00 Location: X=2665.94 Y=2088.84 Z=90.21 Normal: X=-1.00 Y=0.01 Z=0.00 PenetrationDepth:0.100 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (100 other events since notify)
+[2023.02.07-11.46.10:043][580]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=446.75 Y=-400.52 Z=0.00 Location: X=2665.94 Y=2088.84 Z=90.21 Normal: X=-1.00 Y=0.02 Z=-0.00 PenetrationDepth:0.176 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (93 other events since notify)
+[2023.02.07-11.46.11:047][682]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=571.66 Y=-182.23 Z=0.00 Location: X=2665.94 Y=2088.84 Z=90.21 Normal: X=-1.00 Y=0.02 Z=0.00 PenetrationDepth:0.149 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (101 other events since notify)
+[2023.02.07-11.46.12:048][785]LogCharacterMovement: Zombie_C_2 is stuck and failed to move! Velocity: X=570.41 Y=-186.10 Z=0.00 Location: X=2665.94 Y=2088.84 Z=90.21 Normal: X=-1.00 Y=0.02 Z=0.00 PenetrationDepth:0.158 Actor:StaticMeshActor_50 Component:StaticMeshComponent0 BoneName:None (102 other events since notify)
+[2023.02.07-11.46.12:277][806]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.07-11.46.12:277][806]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.02.07-11.46.12:278][806]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.07-11.46.12:278][806]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.07-11.46.12:289][806]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.07-11.46.12:295][806]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.07-11.46.12:327][806]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.07-11.46.12:330][806]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.02.07-11.46.12:331][806]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.02.07-11.46.12:335][806]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.07-11.46.12:340][806]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2023.02.07-11.46.12:370][807]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2023.02.07-11.46.16:240][ 92]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2023.02.07-11.46.16:359][ 92]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2023.02.07-11.47.13:308][200]LogSlate: Window 'Project Settings' being destroyed
+[2023.02.07-11.48.06:018][ 83]LogViewport: Scene viewport resized to 1139x711, mode Windowed.
+[2023.02.07-11.48.06:110][ 85]LogViewport: Scene viewport resized to 467x226, mode Windowed.
+[2023.02.07-11.48.07:046][158]LogViewport: Scene viewport resized to 1141x693, mode Windowed.
+[2023.02.07-11.48.07:096][158]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.02.07-11.48.07:308][178]LogSlate: Window 'BP_FirstPersonCharacter' being destroyed
+[2023.02.07-11.48.38:761][866]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2023.02.07-11.48.38:764][866]LogBlueprint: Warning: [AssetLog] C:\Temp\RT\MastersSemester3\TeethProject\Content\FirstPerson\Blueprints\BP_FirstPersonCharacter.uasset: [Compiler] InputAction Event references unknown Action 'PrimaryAction' for  InputAction PrimaryAction
+[2023.02.07-11.48.38:861][866]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2023.02.07-11.48.39:548][928]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.007537 seconds
+[2023.02.07-11.48.39:560][928]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2023.02.07-11.48.39:561][928]LogSavePackage: Moving '../../../../../../Temp/RT/MastersSemester3/TeethProject/Saved/BP_FirstPersonCharacterA4F917834F2CEEADAF690A8B72367B5E.tmp' to '../../../../../../Temp/RT/MastersSemester3/TeethProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2023.02.07-11.48.39:575][928]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2023.02.07-11.48.39:576][928]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2023.02.07-11.49.11:366][625]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2023.02.07-11.49.11:452][625]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.02.07-11.49.12:271][706]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2023.02.07-11.49.12:271][706]LogSavePackage: Moving '../../../../../../Temp/RT/MastersSemester3/TeethProject/Saved/BP_FirstPersonCharacter7F15F77A498B2190A56680B6805F1C29.tmp' to '../../../../../../Temp/RT/MastersSemester3/TeethProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2023.02.07-11.49.12:285][706]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2023.02.07-11.49.12:285][706]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2023.02.07-11.49.50:030][147]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/FirstPersonArms/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP
+[2023.02.07-11.49.50:030][147]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.07-11.49.50:047][147]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.07-11.49.50:054][147]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.02.07-11.49.50:502][147]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.07-11.49.50:574][147]LogViewport: Scene viewport resized to 476x413, mode Windowed.
+[2023.02.07-11.49.50:613][147]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'Graph.Node.Comment.TextColor'.'
+[2023.02.07-11.51.37:014][171]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.02.07-11.51.37:014][171]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.02.07-11.51.38:444][297]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.02.07-11.51.38:444][297]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.02.07-11.51.39:094][355]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.02.07-11.51.39:094][355]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.02.07-11.51.40:866][508]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.02.07-11.52.11:069][367]LogUObjectGlobals: Warning: Failed to find object 'Class None.BP_FirstPersonCharacter'
+[2023.02.07-11.52.11:070][367]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter'
+[2023.02.07-11.52.12:060][482]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.02.07-11.52.38:489][551]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.02.07-11.52.39:373][648]LogViewport: Scene viewport resized to 128x128, mode Windowed.
+[2023.02.07-11.52.41:880][916]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/FirstPersonArms/Animations/FirstPersonFire_Montage.FirstPersonFire_Montage
+[2023.02.07-11.52.41:939][916]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.02.07-11.52.41:939][916]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.07-11.53.21:271][903]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.02.07-11.53.21:271][903]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.02.07-11.53.22:659][  4]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.02.07-11.53.22:659][  4]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.02.07-11.53.43:664][455]LogSlate: Window 'Reference Viewer' being destroyed
+[2023.02.07-11.54.25:721][431]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2023.02.07-11.54.25:723][431]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.056
+[2023.02.07-11.54.34:226][367]LogSlate: Took 0.000147 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.02.07-11.55.31:580][875]BlueprintLog: New page: Compile FirstPerson_AnimBP
+[2023.02.07-11.55.31:653][875]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.02.07-11.56.02:416][ 63]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_Rifle.BP_Rifle
+[2023.02.07-11.56.02:416][ 63]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.07-11.56.04:724][264]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.02.07-11.56.16:657][634]LogViewport: Scene viewport resized to 1141x693, mode Windowed.
+[2023.02.07-11.56.19:094][922]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'DefaultForeground'.'
+[2023.02.07-11.56.19:116][922]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.07-11.56.30:280][ 84]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.02.07-11.56.30:280][ 84]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.02.07-11.56.31:071][144]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.02.07-11.56.31:071][144]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.02.07-11.56.39:356][792]LogSlate: Window 'Reference Viewer' being destroyed
+[2023.02.07-11.56.39:372][792]LogSlate: Window 'Reference Viewer' being destroyed
+[2023.02.07-11.57.17:958][  3]LogEditorTransaction: Undo Create Pin Link
+[2023.02.07-11.57.18:141][  3]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.02.07-11.57.18:146][  3]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.02.07-11.57.24:343][603]BlueprintLog: New page: Compile FirstPerson_AnimBP
+[2023.02.07-11.57.24:429][603]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2023.02.07-11.57.24:881][638]LogSavePackage: Moving output files for package: /Game/FirstPersonArms/Animations/FirstPerson_AnimBP
+[2023.02.07-11.57.24:882][638]LogSavePackage: Moving '../../../../../../Temp/RT/MastersSemester3/TeethProject/Saved/FirstPerson_AnimBPDE5DD02B4C12ABBFC25B959A24F3E334.tmp' to '../../../../../../Temp/RT/MastersSemester3/TeethProject/Content/FirstPersonArms/Animations/FirstPerson_AnimBP.uasset'
+[2023.02.07-11.57.24:894][638]AssetCheck: New page: Asset Save: FirstPerson_AnimBP
+[2023.02.07-11.57.24:894][638]LogContentValidation: Display: Validating AnimBlueprint /Game/FirstPersonArms/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP
+[2023.02.07-11.58.28:559][851]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2023.02.07-11.58.28:659][851]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.02.07-11.58.28:665][851]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_Rifle_C_CHILDACTOR_39.SkeletalMesh) Trying to register component with IsValid() == false. Aborting.
+[2023.02.07-11.58.28:667][851]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_Rifle_C_CHILDACTOR_31.SkeletalMesh) Trying to register component with IsValid() == false. Aborting.
+[2023.02.07-11.58.28:698][851]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_Rifle_C_CHILDACTOR_43.SkeletalMesh) Trying to register component with IsValid() == false. Aborting.
+[2023.02.07-11.58.28:700][851]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_Rifle_C_CHILDACTOR_37.SkeletalMesh) Trying to register component with IsValid() == false. Aborting.
+[2023.02.07-11.58.29:078][882]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2023.02.07-11.58.29:078][882]LogSavePackage: Moving '../../../../../../Temp/RT/MastersSemester3/TeethProject/Saved/BP_FirstPersonCharacterB258F14543C120E0DC42CCBCB4343174.tmp' to '../../../../../../Temp/RT/MastersSemester3/TeethProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2023.02.07-11.58.29:091][882]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2023.02.07-11.58.29:091][882]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2023.02.07-11.58.31:872][192]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2023.02.07-11.58.31:970][192]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2023.02.07-11.58.31:975][192]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_Rifle_C_CHILDACTOR_43.SkeletalMesh) Trying to register component with IsValid() == false. Aborting.
+[2023.02.07-11.58.31:978][192]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_Rifle_C_CHILDACTOR_49.SkeletalMesh) Trying to register component with IsValid() == false. Aborting.
+[2023.02.07-11.58.32:008][192]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_Rifle_C_CHILDACTOR_53.SkeletalMesh) Trying to register component with IsValid() == false. Aborting.
+[2023.02.07-11.58.32:010][192]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_Rifle_C_CHILDACTOR_49.SkeletalMesh) Trying to register component with IsValid() == false. Aborting.
+[2023.02.07-11.58.32:426][229]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2023.02.07-11.58.32:426][229]LogSavePackage: Moving '../../../../../../Temp/RT/MastersSemester3/TeethProject/Saved/BP_FirstPersonCharacterBD16E9B84BAEC5B53F43EC97D1E4EECF.tmp' to '../../../../../../Temp/RT/MastersSemester3/TeethProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2023.02.07-11.58.32:439][229]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2023.02.07-11.58.32:439][229]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2023.02.07-11.58.33:950][360]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.07-11.58.33:958][360]LogWorldPartition: Display: GenerateStreaming started...
+[2023.02.07-11.58.33:958][360]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.02.07-11.58.33:958][360]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.02.07-11.58.33:958][360]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.02.07-11.58.33:958][360]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.02.07-11.58.33:958][360]LogWorldPartition: Display: GetPartitionedActors took 54 us
+[2023.02.07-11.58.33:958][360]LogWorldPartition: Display: GenerateStreaming took 338 us
+[2023.02.07-11.58.33:958][360]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.07-11.58.33:958][360]PIE: New page: PIE session: FirstPersonMap (7 Feb 2023, 11:58:33)
+[2023.02.07-11.58.33:986][360]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.02.07-11.58.33:991][360]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.02.07-11.58.33:991][360]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005440s)
+[2023.02.07-11.58.33:991][360]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.005516s)
+[2023.02.07-11.58.33:991][360]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.07-11.58.33:992][360]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.02.07-11.58.33:992][360]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.02.07-11.58.33:992][360]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.02.07-11.58.33:993][360]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2023.02.07-11.58.33:993][360]LogPlayLevel: PIE: World Init took: (0.002048s)
+[2023.02.07-11.58.34:038][360]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.02.07-11.58.34:041][360]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.02.07-11.58.34:042][360]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.07-11.58.34:042][360]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.07-11.58.34:042][360]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.07-11.58.34:042][360]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.07-11.58.34:042][360]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.07-11.58.34:042][360]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.07-11.58.34:042][360]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.07-11.58.34:042][360]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.07-11.58.34:042][360]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.07-11.58.34:042][360]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.07-11.58.34:042][360]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.07-11.58.34:044][360]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.07-11.58.34:067][360]LogAudioMixer: Display: Using Audio Hardware Device PLE2283H (NVIDIA High Definition Audio)
+[2023.02.07-11.58.34:067][360]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.07-11.58.34:067][360]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.07-11.58.34:067][360]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.07-11.58.34:068][360]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2023.02.07-11.58.34:068][360]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2023.02.07-11.58.34:069][360]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2023.02.07-11.58.34:069][360]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2023.02.07-11.58.34:069][360]LogInit: FAudioDevice initialized.
+[2023.02.07-11.58.34:069][360]LogAudio: Display: Audio Device (ID: 5) registered with world 'FirstPersonMap'.
+[2023.02.07-11.58.34:079][360]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.02.07-11.58.34:080][360]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.02.07-11.58.34
+[2023.02.07-11.58.34:081][360]LogWorld: Bringing up level for play took: 0.001868
+[2023.02.07-11.58.34:082][360]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2023.02.07-11.58.34:084][360]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=850.000 Z=98.337
+[2023.02.07-11.58.34:084][360]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.02.07-11.58.34:085][360]PIE: Server logged in
+[2023.02.07-11.58.34:085][360]PIE: Play in editor total start time 0.129 seconds.
+[2023.02.07-11.58.34:086][360]LogOutputDevice: Warning: 
+
+Script Stack (1 frames):
+BP_FirstPersonCharacter_C.InpAxisEvt_Move Right / Left_K2Node_InputAxisEvent_5
+
+[2023.02.07-11.58.34:134][360]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.048 s
+[2023.02.07-11.58.34:134][360]LogOutputDevice: Error: === Handled ensure: ===
+[2023.02.07-11.58.34:134][360]LogOutputDevice: Error: 
+[2023.02.07-11.58.34:134][360]LogOutputDevice: Error: Ensure condition failed: NewObject->IsA(this->GeneratedClass) [File:D:\build\++UE5\Sync\Engine\Source\Runtime\Engine\Private\Blueprint.cpp] [Line: 840]
+[2023.02.07-11.58.34:134][360]LogOutputDevice: Error: Type mismatch: Expected BP_FirstPersonCharacter_C, Found REINST_BP_FirstPersonCharacter_C_40
+[2023.02.07-11.58.34:134][360]LogOutputDevice: Error: Stack: 
+[2023.02.07-11.58.34:134][360]LogOutputDevice: Error: [Callstack] 0x00007ffbd644fab4 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.02.07-11.58.34:134][360]LogOutputDevice: Error: [Callstack] 0x00007ffbd3f6baa6 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.02.07-11.58.34:134][360]LogOutputDevice: Error: [Callstack] 0x00007ffbd4415dca UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.02.07-11.58.34:134][360]LogOutputDevice: Error: [Callstack] 0x00007ffbdae6e22b UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2023.02.07-11.58.34:134][360]LogOutputDevice: Error: [Callstack] 0x00007ffbdae7fd80 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2023.02.07-11.58.34:134][360]LogOutputDevice: Error: [Callstack] 0x00007ffbdae42e11 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2023.02.07-11.58.34:134][360]LogOutputDevice: Error: [Callstack] 0x00007ffbdae42124 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2023.02.07-11.58.34:134][360]LogOutputDevice: Error: [Callstack] 0x00007ffbdac1bc07 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2023.02.07-11.58.34:134][360]LogOutputDevice: Error: [Callstack] 0x00007ffbdae41717 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2023.02.07-11.58.34:134][360]LogOutputDevice: Error: [Callstack] 0x00007ffbd6060244 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.02.07-11.58.34:134][360]LogOutputDevice: Error: [Callstack] 0x00007ffbd7cbda54 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.02.07-11.58.34:134][360]LogOutputDevice: Error: [Callstack] 0x00007ffbd766a328 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.02.07-11.58.34:134][360]LogOutputDevice: Error: [Callstack] 0x00007ffbd767f5a5 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.02.07-11.58.34:134][360]LogOutputDevice: Error: [Callstack] 0x00007ffbd766830d UnrealEditor-Engine.dll!UnknownFunction []
+[2023.02.07-11.58.34:134][360]LogOutputDevice: Error: [Callstack] 0x00007ffbd767e740 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.02.07-11.58.34:134][360]LogOutputDevice: Error: [Callstack] 0x00007ffbd603e8e6 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.02.07-11.58.34:134][360]LogOutputDevice: Error: [Callstack] 0x00007ffbd7b579bf UnrealEditor-Engine.dll!UnknownFunction []
+[2023.02.07-11.58.34:134][360]LogOutputDevice: Error: [Callstack] 0x00007ffbd7b5eca8 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.02.07-11.58.34:134][360]LogOutputDevice: Error: [Callstack] 0x00007ffbdb353a9d UnrealEditor-Core.dll!UnknownFunction []
+[2023.02.07-11.58.34:134][360]LogOutputDevice: Error: [Callstack] 0x00007ffbdb353f3e UnrealEditor-Core.dll!UnknownFunction []
+[2023.02.07-11.58.34:134][360]LogOutputDevice: Error: [Callstack] 0x00007ffbdb35d6af UnrealEditor-Core.dll!UnknownFunction []
+[2023.02.07-11.58.34:135][360]LogOutputDevice: Error: [Callstack] 0x00007ffbd7b74eba UnrealEditor-Engine.dll!UnknownFunction []
+[2023.02.07-11.58.34:135][360]LogOutputDevice: Error: [Callstack] 0x00007ffbd7b7b860 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.02.07-11.58.34:135][360]LogOutputDevice: Error: [Callstack] 0x00007ffbd6bbf2bf UnrealEditor-Engine.dll!UnknownFunction []
+[2023.02.07-11.58.34:135][360]LogOutputDevice: Error: [Callstack] 0x00007ffbd6bc7bf0 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.02.07-11.58.34:135][360]LogOutputDevice: Error: [Callstack] 0x00007ffbd3ade5b5 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.02.07-11.58.34:135][360]LogOutputDevice: Error: [Callstack] 0x00007ffbd446a666 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.02.07-11.58.34:135][360]LogOutputDevice: Error: [Callstack] 0x00007ff64ee282f6 UnrealEditor.exe!UnknownFunction []
+[2023.02.07-11.58.34:135][360]LogOutputDevice: Error: [Callstack] 0x00007ff64ee40d9c UnrealEditor.exe!UnknownFunction []
+[2023.02.07-11.58.34:135][360]LogOutputDevice: Error: [Callstack] 0x00007ff64ee40e8a UnrealEditor.exe!UnknownFunction []
+[2023.02.07-11.58.34:135][360]LogOutputDevice: Error: [Callstack] 0x00007ff64ee43c4d UnrealEditor.exe!UnknownFunction []
+[2023.02.07-11.58.34:135][360]LogOutputDevice: Error: [Callstack] 0x00007ff64ee55564 UnrealEditor.exe!UnknownFunction []
+[2023.02.07-11.58.34:135][360]LogOutputDevice: Error: [Callstack] 0x00007ff64ee58736 UnrealEditor.exe!UnknownFunction []
+[2023.02.07-11.58.34:135][360]LogOutputDevice: Error: [Callstack] 0x00007ffc6d627614 KERNEL32.DLL!UnknownFunction []
+[2023.02.07-11.58.34:135][360]LogOutputDevice: Error: [Callstack] 0x00007ffc6f6226a1 ntdll.dll!UnknownFunction []
+[2023.02.07-11.58.34:135][360]LogOutputDevice: Error: 
