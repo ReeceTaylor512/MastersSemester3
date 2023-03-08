@@ -6613,3 +6613,88 @@ Script Stack (0 frames):
 [2023.03.08-20.22.44:380][245]LogContentValidation: Display: Validating Texture2D /Game/Assets/Materials/Textures/Xbox_View_button_svg.Xbox_View_button_svg
 [2023.03.08-20.22.44:380][245]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Blueprints/DamageUpgrade.DamageUpgrade
 [2023.03.08-20.22.44:380][245]LogContentValidation: Display: Validating Material /Game/Assets/Materials/Textures/Xbox_View_button_svg_Mat.Xbox_View_button_svg_Mat
+[2023.03.08-20.25.45:699][329]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2023.03.08-20.25.45:704][329]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.098
+[2023.03.08-20.35.46:014][534]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.03.08-20.35.46:017][534]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.104
+[2023.03.08-20.44.35:268][755]LogEditorFactories: Performing atomic reimport of [G:/.UNI/Masters/P3/assets/teeth appocalypse controls default new.png]
+[2023.03.08-20.44.35:268][755]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 G:/.UNI/Masters/P3/assets/teeth appocalypse controls default new.png)
+[2023.03.08-20.44.35:313][755]LogEditorFactories: -- imported successfully
+[2023.03.08-20.44.35:323][755]LogTexture: Display: Building textures: /Game/Assets/Materials/Textures/teeth_appocalypse_controls_default.teeth_appocalypse_controls_default (BGRA8, 1890X1417 X1X1) (Required Memory Estimate: 51.081276 MB), EncodeSpeed: Fast
+[2023.03.08-20.44.37:330][841]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.03.08-20.44.37:330][841]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.03.08-20.44.42:648][ 10]LogEditorFactories: Performing atomic reimport of [G:/.UNI/Masters/P3/assets/teeth appocalypse controls Tactical New.png]
+[2023.03.08-20.44.42:648][ 10]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 G:/.UNI/Masters/P3/assets/teeth appocalypse controls Tactical New.png)
+[2023.03.08-20.44.42:688][ 10]LogEditorFactories: -- imported successfully
+[2023.03.08-20.44.42:700][ 10]LogTexture: Display: Building textures: /Game/Assets/Materials/Textures/teeth_appocalypse_controls_Tactical.teeth_appocalypse_controls_Tactical (BGRA8, 1890X1417 X1X1) (Required Memory Estimate: 51.081276 MB), EncodeSpeed: Fast
+[2023.03.08-20.44.49:785][405]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2023.03.08-20.44.49:860][405]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2023.03.08-20.45.14:686][507]LogSlate: Window 'Project Settings' being destroyed
+[2023.03.08-20.45.14:695][507]LogSlate: Window 'Project Settings' being destroyed
+[2023.03.08-20.45.17:723][672]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.08-20.45.17:738][672]LogWorldPartition: Display: GenerateStreaming started...
+[2023.03.08-20.45.17:738][672]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.03.08-20.45.17:738][672]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.03.08-20.45.17:738][672]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.03.08-20.45.17:738][672]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.03.08-20.45.17:738][672]LogWorldPartition: Display: GetPartitionedActors took 44 us
+[2023.03.08-20.45.17:738][672]LogWorldPartition: Display: GenerateStreaming took 494 us
+[2023.03.08-20.45.17:738][672]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.08-20.45.17:738][672]PIE: New page: PIE session: FirstPersonMap (8 Mar 2023, 20:45:17)
+[2023.03.08-20.45.17:738][672]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.03.08-20.45.17:747][672]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.03.08-20.45.17:747][672]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008292s)
+[2023.03.08-20.45.17:747][672]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.008334s)
+[2023.03.08-20.45.17:747][672]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.08-20.45.17:748][672]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.03.08-20.45.17:748][672]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.03.08-20.45.17:748][672]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.03.08-20.45.17:749][672]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2023.03.08-20.45.17:750][672]LogPlayLevel: PIE: World Init took: (0.002280s)
+[2023.03.08-20.45.17:843][672]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2023.03.08-20.45.17:848][672]LogAudio: Display: Creating Audio Device:                 Id: 54, Scope: Unique, Realtime: True
+[2023.03.08-20.45.17:848][672]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.08-20.45.17:848][672]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.08-20.45.17:848][672]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.08-20.45.17:848][672]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.08-20.45.17:848][672]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.08-20.45.17:848][672]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.08-20.45.17:848][672]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.08-20.45.17:848][672]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.08-20.45.17:848][672]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.08-20.45.17:848][672]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.08-20.45.17:848][672]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.08-20.45.17:850][672]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.08-20.45.17:886][672]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek High Definition Audio)
+[2023.03.08-20.45.17:887][672]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.08-20.45.17:887][672]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.08-20.45.17:887][672]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.08-20.45.17:887][672]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=54
+[2023.03.08-20.45.17:887][672]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=54
+[2023.03.08-20.45.17:888][672]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=54
+[2023.03.08-20.45.17:888][672]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=54
+[2023.03.08-20.45.17:888][672]LogInit: FAudioDevice initialized.
+[2023.03.08-20.45.17:888][672]LogAudio: Display: Audio Device (ID: 54) registered with world 'FirstPersonMap'.
+[2023.03.08-20.45.17:896][672]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.03.08-20.45.17:898][672]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.03.08-20.45.17
+[2023.03.08-20.45.17:899][672]LogWorld: Bringing up level for play took: 0.003361
+[2023.03.08-20.45.17:901][672]LogOnline: OSS: Created online subsystem instance for: :Context_129
+[2023.03.08-20.45.17:902][672]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=1684.000 Y=2435.000 Z=102.150
+[2023.03.08-20.45.17:902][672]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.03.08-20.45.17:903][672]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.03.08-20.45.17:905][672]PIE: Server logged in
+[2023.03.08-20.45.17:905][672]PIE: Play in editor total start time 0.171 seconds.
+[2023.03.08-20.45.24:241][129]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.08-20.45.24:241][129]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.03.08-20.45.24:241][129]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.08-20.45.24:241][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.08-20.45.24:266][129]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.08-20.45.24:273][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.08-20.45.24:351][129]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.08-20.45.24:353][129]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=54
+[2023.03.08-20.45.24:354][129]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=54
+[2023.03.08-20.45.24:357][129]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.08-20.45.24:362][129]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2023.03.08-20.45.24:425][130]LogPlayLevel: Display: Destroying online subsystem :Context_129
+[2023.03.08-20.45.27:919][317]LogViewport: Scene viewport resized to 1768x974, mode Windowed.
+[2023.03.08-20.45.30:326][474]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
